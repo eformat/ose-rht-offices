@@ -2,10 +2,10 @@
    "kind": "Template",
    "apiVersion": "v1",
    "metadata": {
-      "name": "rhtoffices",
+      "name": "cloffices",
       "annotations": {
          "iconClass": "icon-jboss",
-         "description": "Application template for RHT Offices application on EAP 6 & MongoDB built using STI",
+         "description": "Application template for Cetrelink Offices application on EAP 6 & MongoDB built using STI",
          "tags": "instant-app,eap,mongodb,javaee,java,database,jboss,xpaas"
       }
    },
@@ -26,12 +26,12 @@
       {
          "description": "Git source URI for application",
          "name": "GIT_URI",
-         "value": "https://github.com/sabre1041/ose-rht-offices.git"
+         "value": "https://github.com/eformat/ose-rht-offices.git"
       },
       {
          "description": "Git branch/tag reference",
          "name": "GIT_REF",
-         "value": "master"
+         "value": "dhs"
       },
       {
          "description": "Database name",
