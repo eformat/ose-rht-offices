@@ -1,4 +1,3 @@
-{ "name": "SITE NAME", "city": "SUBURB", "code": "SITE NAME", "street": "ADDRESS", "state": "STATE", "zip": "STATE", "phone": "+61 555 555 5555", "fax": "+61 555 555 5555", "coordinates":[ LATITUDE,LONGITUDE ]},
 { "name": "Albury", "city": "Albury", "code": "Albury", "street": "430 Wilson Street", "state": "NSW", "zip": "NSW", "phone": "+61 555 555 5555", "fax": "+61 555 555 5555", "coordinates":[ -36.07727,146.92370 ]},
 { "name": "Townsville Jobseekers", "city": "Aitkenvale", "code": "Townsville Jobseekers", "street": "307 Ross River Road", "state": "QLD", "zip": "QLD", "phone": "+61 555 555 5555", "fax": "+61 555 555 5555", "coordinates":[ -19.29713,146.76441 ]},
 { "name": "Albany", "city": "Albany", "code": "Albany", "street": "15 Peels Place", "state": "WA", "zip": "WA", "phone": "+61 555 555 5555", "fax": "+61 555 555 5555", "coordinates":[ -35.02591,117.88466 ]},
