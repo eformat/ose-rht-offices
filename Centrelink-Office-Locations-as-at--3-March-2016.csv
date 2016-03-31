@@ -1,0 +1,928 @@
+OFFICE TYPE,SITE NAME,ALTERNATIVE NAME,ADDRESS,SUBURB,STATE,POSTCODE,LATITUDE,LONGITUDE,Open,Close,Closed for lunch/Office Notes
+Centrelink Customer Service Centre,Albury,,430 Wilson Street,Albury,NSW,2640,-36.07727,146.92370,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Townsville Jobseekers,,307 Ross River Road,Aitkenvale,QLD,4814,-19.29713,146.76441,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Albany,,15 Peels Place,Albany,WA,6330,-35.02591,117.88466,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Alice Springs,,5 Railway Terrace,Alice Springs,NT,870,-23.69590,133.88036,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Tangentyere,,4 Elder Street,Alice Springs,NT,870,-23.69924,133.87184,08:30:00,15:00:00,12:00:00 to 13:00:00
+Centrelink Customer Service Centre,Armadale (WA),,40-42 William Street,Armadale,WA,6112,-32.15567,116.01372,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ararat,,45-47 King Street (Cnr King & High Sts),Ararat,VIC,3377,-37.28326,142.93661,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Seniors & Carers Robina,,"Level 5, Robina Town Centre, 19-33 Robina Town Centre Drive",Robina,QLD,4230,-28.07749,153.38539,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Armidale (NSW),,246-248 Beardy Street,Armidale,NSW,2350,-30.51246,151.66191,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Atherton,,3 Cook Street,Atherton,QLD,4883,-17.26322,145.47927,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Auburn,,5-9 Macquarie Road,Auburn,NSW,2144,-33.84777,151.03332,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ayr,,100 MacMillan Street,Ayr,QLD,4807,-19.57682,147.40660,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Ballarat,,4-12 Albert Street,Ballarat,VIC,3350,-37.56333,143.85849,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bankstown,,"G, L1 & 4, 2-14 Meredith Street",Bankstown,NSW,2200,-33.91720,151.03111,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Baulkham Hills,,7 Seven Hills Road,Baulkham Hills,NSW,2153,-33.76209,150.99159,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bundaberg,,26 Woongarra Street,Bundaberg,QLD,4670,-24.86614,152.35411,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Beaudesert,,33 William Street,Beaudesert,QLD,4285,-27.99026,152.99889,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Beenleigh,,Stock Yard Lane,Beenleigh,QLD,4207,-27.71957,153.20658,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bega,,49-61 Church Street,Bega,NSW,2550,-36.67370,149.84170,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bendigo,,231-245 Lyttleton Terrace,Bendigo,VIC,3550,-36.75950,144.28262,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Berri,,5 Riverview Drive,Berri,SA,5343,-34.28789,140.60191,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bathurst,,166 -168 Russell St,Bathurst,NSW,2795,-33.41674,149.57715,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Burnie,,23 Marine Terrace,Burnie,TAS,7320,-41.05438,145.90715,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Biggera Waters,,95 Brisbane Street,Biggera Waters,QLD,4216,-27.93545,153.39615,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Biloela,,49 Grevillea Street,Biloela,QLD,4715,-24.40099,150.51371,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Broken Hill,,180 Beryl Street,Broken Hill,NSW,2880,-31.95784,141.46209,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Blacktown,,8 First Avenue (ground floor),Blacktown,NSW,2148,-33.76838,150.91110,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Belconnen,,"Level 1, Northpoint Plaza 8 Chandler Street",Belconnen,ACT,2617,-35.23784,149.06879,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Belgrave,,1657-1661 Burwood Highway,Belgrave,VIC,3160,-37.90906,145.35402,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ballina,,117-121 Tamar Street,Ballina,NSW,2478,-28.86713,153.55671,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Batemans Bay,,3 Flora Crescent,Batemans Bay,NSW,2536,-35.70976,150.17865,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Broome,,14 Napier Terrace,Broome,WA,6725,-17.95464,122.24006,08:00:00,16:00:00,No
+Centrelink Customer Service Centre,Bondi Junction,,19-23 Hollywood Avenue,Bondi Junction,NSW,2022,-33.89365,151.25128,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Boronia,,3 William Street,Boronia,VIC,3155,-37.85891,145.28449,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bowen,,53 George Street ,Bowen,QLD,4805,-20.01501,148.24674,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bairnsdale,,60-62 MacLeod Street,Bairnsdale,VIC,3875,-37.82674,147.63355,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bourke,,16 Richard Street,Bourke,NSW,2840,-30.09117,145.93728,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Bowral,,38 Wingecarribee Street,Bowral,NSW,2576,-34.47863,150.41925,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Brunswick Heads,,3 Fingal Street,Brunswick Heads,NSW,2483,-28.54037,153.55171,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Browns Plains,,75-87 Grand Plaza Drive,Browns Plains,QLD,4118,-27.66424,153.04325,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Moreland,,172-186 Moreland Road (ground floor),Brunswick,VIC,3056,-37.75575,144.96322,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Busselton,,65 Duchess Street,Busselton,WA,6280,-33.64833,115.34546,08:00:00,16:00:00,No
+Centrelink Customer Service Centre,Burwood,,56 Railway Parade,Burwood,NSW,2134,-33.87112,151.10097,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Bunbury,,54-56 Wittenoom Street,Bunbury,WA,6230,-33.32394,115.63525,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Rosny Park,,2 Gordons Hill Road,Rosny Park,TAS,7018,-42.86619,147.37231,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Box Hill,,3-13 Harrow Street,Box Hill,VIC,3128,-37.82124,145.12382,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Byron Bay,,6 Byron Street,Byron Bay,NSW,2481,-28.64445,153.61446,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Casuarina,,50 Bradshaw Terrace,Casuarina,NT,810,-12.37187,130.88129,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cabramatta,,251-257 Cabramatta Road,Cabramatta,NSW,2166,-33.89591,150.93409,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Camden,,16-22 Murray Street,Camden,NSW,2570,-34.05617,150.69418,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cannington,,1290-1298 Albany Highway,Cannington,WA,6107,-32.01518,115.92928,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Capalaba,,42 Redland Bay Road,Capalaba,QLD,4157,-27.52385,153.19258,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Caringbah,,15-21 President Avenue,Caringbah,NSW,2229,-34.04258,151.12139,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Casino,,46 Hickey Street,Casino,NSW,2470,-28.86344,153.05052,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Braddon,,13 Lonsdale Street,Braddon,ACT,2612,-35.27411,149.13225,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ceduna,,22B East Terrace (co-located in PM&C premises),Ceduna,SA,5690,-32.12374,133.67566,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Cessnock,,186-194 Vincent Street,Cessnock,NSW,2325,-32.83867,151.35553,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Coffs Harbour,,21-25 Duke Street,Coffs Harbour,NSW,2450,-30.29670,153.11870,08:30:00,16:30:00,12:00:00 to 13:30:00
+Centrelink Customer Service Centre,Charlestown,,331 Charlestown Road (Level 1),Charlestown,NSW,2290,-32.96075,151.69566,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Chermside,,18 Banfield Street,Chermside,QLD,4032,-27.38179,153.03104,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cheltenham,,1242a Nepean Highway,Cheltenham,VIC,3192,-37.96752,145.05865,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Charters Towers,,31 Hodgkinson Street,Charters Towers,QLD,4820,-20.07754,146.26041,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Charleville,,78-80 Edward Street,Charleville,QLD,4470,-26.40429,146.23950,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Caloundra,,54 Canberra Terrace,Caloundra,QLD,4551,-26.80413,153.13615,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cleveland,,159 Bloomfield Street,Cleveland,QLD,4163,-27.52917,153.26674,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cooma,,65 Massie Street,Cooma,NSW,2630,-36.23366,149.12518,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Campbelltown,,8-10 Browne Street,Campbelltown,NSW,2560,-34.06518,150.81721,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cairns Jobseekers,,23 Aplin Street,Cairns,QLD,4870,-16.92161,145.77295,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Colac,,108 Bromfield Street,Colac,VIC,3250,-38.34112,143.58917,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Coober Pedy,,Lot 715 Hutchinson Street,Coober Pedy,SA,5723,-29.00401,134.75524,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Corrimal,,Corner Collins and Underwood Street,Corrimal,NSW,2518,-34.37025,150.89625,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cranbourne,,7-9 Codrington St,Cranbourne,VIC,3977,-38.11246,145.28454,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Seniors & Carers Cairns,,104 Grafton Street,Cairns,QLD,4870,-16.92229,145.77442,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Kilkenny,,8 Regency Road,Kilkenny,SA,5009,-34.87500,138.55180,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Campsie,,19-21 Anglo Road,Campsie,NSW,2194,-33.91096,151.10231,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Chatswood,,56-64 Archer Street,Chatswood,NSW,2067,-33.79696,151.18575,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Whitsunday,,"224 Shute Harbour Road, Cannonvale",Cannonvale,QLD,4802,-20.27667,148.70042,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Carnarvon,,76 Robinson Street,Carnarvon,WA,6701,-24.88086,113.65972,08:00:00,16:00:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Cowra,,93-95 Brisbane St,Cowra,NSW,2794,-33.83584,148.69135,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Dandenong,,27-29 Robinson Street,Dandenong,VIC,3175,-37.98770,145.21052,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Dapto,,41-43 Baan Baan Street,Dapto,NSW,2530,-34.49382,150.79638,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Darlinghurst,,137-153 Crown Street,Darlinghurst,NSW,2010,-33.87637,151.21556,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Deception Bay,,"Deception Bay Shopping Centre, Cnr Maine Terrace & Bay Avenue",Deception Bay,QLD,4508,-27.19272,153.03027,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Darebin,,251 Murray Street,Preston,VIC,3072,-37.73820,145.00230,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Dubbo,,64 Wingewarra Street,Dubbo,NSW,2830,-32.24898,148.60454,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Dalby,,34-36 Patrick Street,Dalby,QLD,4405,-27.18026,151.26456,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Derby,,44 Clarendon Street,Derby,WA,6728,-17.30501,123.62884,08:00:00,16:00:00,No
+Centrelink Customer Service Centre,Deniliquin,,324-332 Cressy Street,Deniliquin,NSW,2710,-35.52871,144.96219,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Devonport,,167 William Street,Devonport,TAS,7310,-41.17479,146.35092,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Cairns Earlville,,480 Mulgrave Road,Earlville,QLD,4870,-16.94152,145.74051,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Echuca,,69 Heygarth Street,Echuca,VIC,3564,-36.12498,144.74620,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Elizabeth,,10 Langford Drive,Elizabeth,SA,5112,-34.72049,138.66431,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Emerald,,21 Egerton Street,Emerald,QLD,4720,-23.52423,148.15922,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Enfield,,298-302 Main North Road Prospect,Prospect,SA,5082,-34.87160,138.60138,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,The Entrance,,16-18 Fairview Avenue,The Entrance,NSW,2261,-33.34330,151.49634,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Esperance,,58 The Esplanade,Esperance,WA,6450,-33.86351,121.89219,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Ettalong,,241 Ocean View Road,Ettalong,NSW,2257,-33.51379,151.33746,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Fairfield,,29-33 Barbara Street,Fairfield,NSW,2165,-33.87276,150.95339,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Fountain Gate,,71-73 Webb Street Narre Warren,Narre Warren,VIC,3805,-38.02255,145.30631,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Footscray,,75 Moore St,Footscray,VIC,3011,-37.79967,144.90346,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Fortitude Valley,,435 St Pauls Terrace,Fortitude Valley,QLD,4006,-27.45460,153.03336,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Tuncurry,,116 Manning Street,Tuncurry,NSW,2428,-32.17190,152.49830,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Fremantle,,7 Packenham Street,Fremantle,WA,6160,-32.05425,115.74383,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Gawler,,23 High Street,Gawler,SA,5118,-34.60007,138.75007,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Goodna,,1 William Street,Goodna,QLD,4300,-27.60726,152.89570,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Goondiwindi,,31 Marshall Street,Goondiwindi,QLD,4390,-28.54637,150.30333,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Geelong,,12-14 Little Ryrie Street,Geelong,VIC,3220,-38.14920,144.35522,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Geraldton,,Corner Forrest Street and Chapman Road,Geraldton,WA,6530,-28.77082,114.61273,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Griffith,,95-97 Yambil Street,Griffith,NSW,2680,-34.28909,146.04573,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Grafton,,4-8 King Street,Grafton,NSW,2460,-29.68991,152.93267,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Gladstone,,164-170 Goondoon Street,Gladstone,QLD,4680,-23.84622,151.25814,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Glenorchy,,455 Main Rd,Glenorchy,TAS,7010,-42.83047,147.27010,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Broadmeadows,,16-22 Pearcedale Parade,Broadmeadows,VIC,3047,-37.68202,144.91612,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Glenelg,,156-158 Jetty Road,Glenelg,SA,5045,-34.98022,138.51879,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Glen Innes,,300 Grey Street,Glen Innes,NSW,2370,-29.73776,151.73556,09:00:00,16:00:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Glen Waverley,,7 Bogong Avenue,Glen Waverley,VIC,3150,-37.88138,145.16124,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Gungahlin,,Gungahlin Marketplace 33 Hibberson Street,Gungahlin,ACT,2912,-35.18451,149.13492,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Gosnells,,94 Lissiman Street,Gosnells,WA,6110,-32.06971,115.99874,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Gosford,,7-13 Watt Street,Gosford,NSW,2250,-33.42396,151.34402,00:00 ,Mon to Fri - Irregular Hours,Yes - Irregular Hours
+Centrelink Customer Service Centre,Goulburn,,136 Auburn Street,Goulburn,NSW,2580,-34.75572,149.71729,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Greensborough,,16-20 Grimshaw Street,Greensborough,VIC,3088,-37.70488,145.10676,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Gunnedah,,34 Chandos Street,Gunnedah,NSW,2380,-30.97749,150.25019,09:00:00,16:30:00,No
+Centrelink Customer Service Centre,Gympie,,27 OConnell Street,Gympie,QLD,4570,-26.18736,152.66149,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Hastings,,125 High Street,Hastings,VIC,3915,-38.30781,145.18694,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Hobart,,30-38 Barrack Street,Hobart,TAS,7000,-42.88580,147.32258,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Heidelberg,,21 Yarra Street,Heidelberg,VIC,3084,-37.75890,145.06975,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Hervey Bay,,6 Hunter St,Pialba,QLD,4655,-25.28288,152.84124,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Hamilton,,258 Gray Street,Hamilton,VIC,3300,-37.74150,142.02759,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Hornsby,,117-119 Pacific Highway,Hornsby,NSW,2077,-33.70723,151.09853,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Horsham,,Corner Darlot and McLachlan Street,Horsham,VIC,3400,-36.71317,142.19716,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Hurstville,,430 Forrest Road,Hurstville,NSW,2220,-33.96450,151.09735,08:00:00,17:00:00,No
+Centrelink Customer Service Centre,Huonville,,1 Skinner Drive,Huonville,TAS,7109,-43.03119,147.04941,09:00:00,16:00:00,12:00:00 to 13:00:00
+Centrelink Customer Service Centre,Innisfail,,72 Ernest Street,Innisfail,QLD,4860,-17.52449,146.02787,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ingleburn,,27-31 Carlisle Street,Ingleburn,NSW,2565,-33.99775,150.86796,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Inala,,14 Wirraway Parade,Inala,QLD,4077,-27.60139,152.97454,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ingham,,48 Herbert Street,Ingham,QLD,4850,-18.64973,146.15938,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Innaloo,,37 Ellen Stirling Boulevard,Innaloo,WA,6018,-31.89869,115.80170,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Inverell,,158 Otho Street,Inverell,NSW,2360,-29.77744,151.11445,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ipswich,,78 East Street,Ipswich,QLD,4305,-27.61720,152.76024,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mt Isa,,30-32 West Street,Mt Isa,QLD,4825,-20.72491,139.49098,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Joondalup,,68 Reid Promenade,Joondalup,WA,6027,-31.74185,115.77141,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Kadina,,22-24 Taylor Street,Kadina,SA,5554,-33.96283,137.71213,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Katoomba,,33-35 Waratah Street,Katoomba,NSW,2780,-33.71712,150.30953,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Darwin,,24 Knuckey Street (ground fl),Darwin,NT,800,-12.46155,130.84338,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Kalgoorlie,,Corner Egan and Porter Street,Kalgoorlie,WA,6430,-30.74538,121.47710,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Kingaroy,,21 Markwell Street,Kingaroy,QLD,4610,-26.54301,151.83797,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Kempsey,,68-70 Elbow Street,West Kempsey,NSW,2440,-31.08100,152.82870,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Karratha,,14 De Grey Place,Karratha,WA,6714,-20.73721,116.84963,08:00:00,16:00:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Katherine,,4 Second Street,Katherine,NT,850,-14.46447,132.26662,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Kununurra,,81 Konkerberry Drive,Kununurra,WA,6743,-15.77525,128.73920,08:00:00,16:00:00,No
+Centrelink Customer Service Centre,Kurri Kurri,,174-176 Barton Street,Kurri Kurri,NSW,2327,-32.81999,151.47991,09:00:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Kawana Waters,,113 Point Cartwright Drive,Buddina,QLD,4575,-26.69948,153.13196,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Epping,,"Shop 10, 560 High Street ",Epping,VIC,3076,-37.65364,145.02292,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Leeton,,Lot 2 Acacia Avenue,Leeton,NSW,2705,-34.55209,146.39828,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Lightning Ridge,,12 Opal Street (formally known as Opal Court 10a Opal Street),Lightning Ridge,NSW,2834,-29.42886,147.97961,08:30:00,12:30:00,No
+Centrelink Customer Service Centre,Lilydale,,Corner Anderson and Chapel Street,Lilydale,VIC,3140,-37.75600,145.35500,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Lithgow,,176 Mort Street,Lithgow,NSW,2790,-33.48130,150.16031,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Liverpool,,211-231 Northumberland Street (ground floor),Liverpool,NSW,2170,-33.92358,150.92204,08:00:00,17:00:00,No
+Centrelink Customer Service Centre,Lake Haven,,3 Forrow Drive,Lake Haven,NSW,2263,-33.24258,151.50627,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Longreach,,96 Galah Street,Longreach,QLD,4730,-23.44181,144.25173,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Launceston,,8 Boland Street,Launceston,TAS,7250,-41.42954,147.14338,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Lismore,,47 Conway Street,Lismore,NSW,2480,-28.81210,153.27696,00:00 ,Mon to Fri - Irregular Hours,No
+Centrelink Customer Service Centre,Marion,,8 Warracowie Way,Oaklands Park,SA,5046,-35.01371,138.54266,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Mayfield,,188-194 Maitland Road,Mayfield,NSW,2304,-32.90020,151.73980,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Mt Barker,,30 Stephen Street,Mt Barker,SA,5251,-35.06668,138.85888,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Maryborough,,207 Lennox Street,Maryborough,QLD,4650,-25.53740,152.70120,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Maroochydore,,5 Maud Street,Maroochydore,QLD,4558,-26.65634,153.09473,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Mandurah,,24-26 Tuckey Street,Mandurah,WA,6210,-32.53233,115.72343,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mudgee,,Lot 72 Byron Place,Mudgee,NSW,2850,-32.59183,149.58680,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mt Druitt,,3 Mount Street,Mt Druitt,NSW,2770,-33.76883,150.82322,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Melton,,Woodgrove Shopping Centre Barries Road,Melton,VIC,3337,-37.68724,144.56585,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Merrylands,,207-209 Pitt Street,Merrylands,NSW,2160,-33.83550,150.99130,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mt Gambier,,5 Percy Street,Mt Gambier,SA,5290,-37.82840,140.78276,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mt Gravatt,,57 Sanders Street,Mt Gravatt,QLD,4122,-27.55895,153.08206,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Midland,,15 Keane Street,Midland,WA,6056,-31.88840,116.00507,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mirrabooka,,24 Chesterfield Road,Mirrabooka,WA,6061,-31.86820,115.85850,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mitchelton,,55 Osborne Road,Mitchelton,QLD,4053,-27.41219,152.97728,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mackay,,"12 Greenfields Boulevard, Mount Pleasant",Mackay,QLD,4740,-21.12251,149.15892,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Tweed Heads,,100 Blundell Boulevard,Tweed Heads,NSW,2486,-28.20001,153.54273,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Modbury,,96 Reservoir Road,Modbury,SA,5092,-34.83428,138.68773,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Airport West,,"Shop 79, Westfield Shoppingtown, Louis St",Airport West,VIC,3042,-37.71393,144.88732,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mornington,,332 Main Street,Mornington,VIC,3931,-38.22610,145.04346,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mossman,,23 Front Street,Mossman,QLD,4873,-16.46058,145.37318,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Mildura,,112-124 Deakin Street,Mildura,VIC,3500,-34.18742,142.16028,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Maroubra,,136-138 Maroubra Road,Maroubra,NSW,2035,-33.94108,151.23748,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Mareeba,,228 Byrnes Street,Mareeba,QLD,4880,-16.99680,145.42247,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Morley,,38 Rudloc Road,Morley,WA,6062,-31.90007,115.89983,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Marrickville,,314 Marrickville Road,Marrickville,NSW,2204,-33.91016,151.15547,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Morwell,,Corner Chapel and Elgin Street,Morwell,VIC,3840,-38.23986,146.39936,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Moree,,11 Auburn Street,Moree,NSW,2400,-29.46090,149.83977,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Muswellbrook,,164-166 Bridge Street,Muswellbrook,NSW,2333,-32.26028,150.88902,09:00:00,16:30:00,No
+Centrelink Customer Service Centre,Maitland,,226 High Street,Maitland,NSW,2320,-32.73760,151.56210,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Murray Bridge,,8-12 Bridge Street,Murray Bridge,SA,5253,-35.11813,139.27723,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Murwillumbah,,107-113 Wollumbin Street,Murwillumbah,NSW,2484,-28.32707,153.39428,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Maryborough,,16 Campbell Street,Maryborough,VIC,3465,-37.04631,143.73541,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Nambour,,Corner Currie and Maud Street,Nambour,QLD,4560,-26.62841,152.95957,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Narrabri,,9 Doyle Street,Narrabri,NSW,2390,-30.32415,149.78360,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Nambucca Heads,,13 Bowra Street,Nambucca Heads,NSW,2448,-30.64258,153.00279,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Nelson Bay,,18-20 Yacaaba Street,Nelson Bay,NSW,2315,-32.72315,152.14451,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Nerang,,37-39 Cotton Street,Nerang,QLD,4211,-27.99081,153.33414,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Corio,,Corio Village Shopping Centre Purnell Road,Corio,VIC,3214,-38.07526,144.35551,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Northam,,89 Fitzgerald Street,Northam,WA,6401,-31.65133,116.67371,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Newmarket,,482-490 Racecourse Road,Flemington,VIC,3031,-37.78771,144.92522,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Noarlunga,,9 Alexander Kelly Drive,Noarlunga,SA,5168,-35.13848,138.49880,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Noosa,,28 Eenie Creek Road,Noosaville,QLD,4566,-26.41441,153.04841,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Norwood,,49 Edward Street,Norwood,SA,5067,-34.92073,138.63423,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Nowra,,4 Lawrence Avenue,Nowra,NSW,2541,-34.87730,150.60125,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Newport,,433-439 Melbourne Road,Newport,VIC,3015,-37.84136,144.88265,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Narooma,,"Shop 34, 185 Princes Highway",Narooma,NSW,2546,-36.22382,150.12716,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Newcastle,,275-279 King Street,Newcastle West,NSW,2300,-32.92869,151.76895,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Normanton,,16 Matilda Street,Normanton,QLD,4890,-17.67276,141.07277,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Nhulunbuy,,93 Chesterfield Cct,Nhulunbuy,NT,880,-12.18532,136.78645,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Nundah,,1283-1285 Sandgate Road,Nundah,QLD,4012,-27.40143,153.05974,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Oakleigh,,88 Atherton Road,Oakleigh,VIC,3166,-37.89960,145.09429,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Orange,,189-191 Anson Street,Orange,NSW,2800,-33.28454,149.09805,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Port Adelaide,,72 Lipson Street,Port Adelaide,SA,5015,-34.84703,138.50867,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Palmerston,,2 Maluka Street,Palmerston,NT,830,-12.48104,130.98689,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Parramatta,,Jessie Street Centre 2-12 Macquarie Street,Parramatta,NSW,2150,-33.81437,151.00061,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Palm Beach,,1085-1087 Gold Coast Highway,Palm Beach,QLD,4221,-28.11973,153.47218,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Penrith,,598 High Street (Corner Worth Street),Penrith,NSW,2750,-33.75211,150.69080,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Leichhardt,,23 Balmain Road,Leichhardt,NSW,2040,-33.88706,151.15933,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Pakenham,,25 Treloar Lane,Pakenham,VIC,3810,-38.07841,145.48349,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Parkes,,57-59 Currajong Street,Parkes,NSW,2870,-33.13433,148.17627,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Port Lincoln,,8 Edinburgh Street,Port Lincoln,SA,5606,-34.72455,135.85980,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Frankston,,20 Davey Street,Frankston,VIC,3199,-38.14651,145.12260,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Portland,,8-10 Gawler Street,Portland,VIC,3305,-38.35023,141.60513,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Port Pirie,,53 Gertrude Street,Port Pirie,SA,5540,-33.17637,138.00701,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Port Macquarie,,5-7 Short Street,Port Macquarie,NSW,2444,-31.42974,152.90668,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Port Augusta,,21-23 Mackay Street,Port Augusta,SA,5700,-32.48941,137.76342,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Queanbeyan,,183 Crawford Street,Queanbeyan,NSW,2620,-35.35187,149.23298,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Raymond Terrace,,37-39 Sturgeon Street,Raymond Terrace,NSW,2324,-32.76431,151.74240,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Rockingham,,18 Civic Boulevarde,Rockingham,WA,6168,-32.28626,115.74637,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Margate,,279-287 Oxley Avenue,Margate,QLD,4019,-27.24345,153.10666,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Caboolture,,20-22 George Street,Caboolture,QLD,4510,-27.08205,152.94853,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Redfern,,140 Redfern Street,Redfern,NSW,2016,-33.89240,151.20260,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Rouse Hill,,"Shop GR76, Rouse Hill Town Centre, 10-14 Market Lane",Rouse Hill,NSW,2155,-33.69100,150.92435,09:00:00,16:30:00,No
+Centrelink Customer Service Centre,Ringwood,,2-6 Bond Street,Ringwood,VIC,3134,-37.81396,145.22638,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Rockdale,,75 Railway Street,Rockdale,NSW,2216,-33.95090,151.13674,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Rockhampton,,190-194 Musgrave Street,Rockhampton,QLD,4700,-23.36178,150.52331,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Roma,,39 Hawthorne Street,Roma,QLD,4455,-26.57257,148.78774,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Rosebud,,3 Jetty Road,Rosebud,VIC,3939,-38.35533,144.90943,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Rowville,,5 Fulham Road,Rowville,VIC,3178,-37.91754,145.23712,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Sale,,150-154 York Street,Sale,VIC,3850,-38.10810,147.06899,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,South Brisbane,,"36 Annerley Road, Woolloongabba",Brisbane,QLD,4102,-27.48756,153.02929,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Sunbury,,33-37 Evans Street,Sunbury,VIC,3429,-37.57907,144.72996,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Seymour,,8 Henry Street,Seymour,VIC,3660,-37.02385,145.13723,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,South Hedland,,3 Brand Street (cnr Brand and Tonkin Sts),South Hedland,WA,6722,-20.40767,118.59938,08:00:00,16:00:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Shepparton,,296-298 Maude Street,Shepparton,VIC,3630,-36.38510,145.39969,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Singleton,,6 William Street,Singleton,NSW,2330,-32.56411,151.16969,09:00:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Salisbury,,32-38 Gawler Street,Salisbury,SA,5108,-34.76000,138.64320,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,South Melbourne,,94 York Street,South Melbourne,VIC,3205,-37.83069,144.95906,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Smithfield (Shopfront),,"Shops 77 / 77a, Smithfield Shopping Centre, Corner Kennedy and Cook Highway",Smithfield,QLD,4878,-16.83731,145.69267,09:00:00,17:00:00,No
+Centrelink Customer Service Centre,Strathpine,,242 Gympie Road,Strathpine,QLD,4500,-27.30889,152.98989,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Springwood,,107-109 Macquarie Road,Springwood,NSW,2777,-33.69887,150.56832,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Southport,,5-15 Suter Street,Southport,QLD,4215,-27.97013,153.41132,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Springvale,,324-334 Springvale Road,Springvale,VIC,3171,-37.95584,145.15157,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Sorell,,"Shop 3, 5 Fitzroy Street",Sorell,TAS,7172,-42.78292,147.56325,09:00:00,16:00:00,12:00:00 to 13:00:00
+Centrelink Customer Service Centre,Watergardens,,"Ground Floor, 399 Melton Hwy, Sydenham",Taylors Lakes,VIC,3038,-37.69821,144.78003,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,St Marys,,47 Phillip Street,St Marys,NSW,2760,-33.76351,150.77569,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Stanthorpe,,10 Corundum Street,Stanthorpe,QLD,4380,-28.65209,151.93541,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Stones Corner,,Corner Logan Road and Cornwall Street,Stones Corner,QLD,4120,-27.50329,153.04698,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Stawell,,27 Church Street,Stawell,VIC,3380,-37.05481,142.78162,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Sunshine,,103 Harvester Rd,Sunshine,VIC,3020,-37.77804,144.82977,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Sutherland,,36 Eton Street,Sutherland,NSW,2232,-34.03181,151.05905,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Swan Hill,,221-227 Beveridge Street,Swan Hill,VIC,3585,-35.34161,143.55917,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Success,,"Unit 7, 11 Wentworth Parade",Success,WA,6164,-32.13041,115.85295,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Taree,,184-188 Victoria Street,Taree,NSW,2430,-31.91356,152.46107,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Tamworth,,219-223 Peel Street,Tamworth,NSW,2340,-31.08799,150.92714,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Tennant Creek,,77 Paterson Street,Tennant Creek,NT,862,-19.64527,134.19080,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Palm Island,,Lot 74 Main Street,Palm Island,QLD,4816,-18.73457,146.57899,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Toronto,,2-6 Donnelly Avenue,Toronto,NSW,2283,-33.01121,151.59433,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Torrensville,,132-136 Henley Beach Road,Torrensville,SA,5031,-34.92400,138.56520,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Thursday Island,,Cnr Hastings Street and Victoria Parade,Thursday Island,QLD,4875,-10.58507,142.22047,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Townsville City (Shopfront),,143 Walker Street,Townsville,QLD,4810,-19.25896,146.81389,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Tuggeranong,,"Tuggeranong Square, Corner Anketell and Sheerin Street",Tuggeranong,ACT,2900,-35.42025,149.06995,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Tumut,,Cnr Merivale & Russell Streets,Tumut,NSW,2720,-35.29950,148.22150,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Toowoomba,,12-20 Bell Street (ground floor),Toowoomba,QLD,4350,-27.56056,151.95647,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Toowong,,17-19 Lissner Street,Toowong,QLD,4066,-27.48419,152.99141,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ulladulla,,270-272 Green Street,Ulladulla,NSW,2539,-35.35716,150.47256,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Victor Harbor,,90 Victoria Street,Victor Harbor,SA,5211,-35.55790,138.61490,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Victoria Park,,117-121 Shepperton Road,Victoria Park,WA,6100,-31.97252,115.89745,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Walgett,,Corner Fox and Euroka Street,Walgett,NSW,2832,-30.02350,148.11629,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre,Wangaratta,,23-25 Faithful Street,Wangaratta,VIC,3677,-36.35343,146.32727,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Shellharbour,,"Ground Level, Shop G2 and OA22, Shellharbour Square Shopping Centre, Lake Entrance Road",Shellharbour,NSW,2529,-34.56388,150.83893,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Woden,,"Building C, Penrhyn House, 2-6 Bowes Street",Woden,ACT,2606,-35.34830,149.08701,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Woodridge,,21 Station Street,Woodridge,QLD,4114,-27.63841,153.10526,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Werribee,,89-91 Synnot Street,Werribee,VIC,3030,-37.90590,144.65726,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Ryde,,19-27 Devlin Street,Ryde,NSW,2112,-33.81464,151.10340,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Wagga Wagga,,63 Tompson Street,Wagga Wagga,NSW,2650,-35.11180,147.36931,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Warragul,,42 Queen Street,Warragul,VIC,3820,-38.16340,145.92890,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Warwick Grove,,87 Ellersdale Avenue,Warwick,WA,6024,-31.84228,115.81003,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Whyalla,,169 Nicholson Avenue,Whyalla Norrie,SA,5608,-33.02747,137.53575,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Seniors & Carers Townsville,,"Corner Kern Brothers Drive and Hervey Range Road, Thuringowa",Thuringowa,QLD,4817,-19.31855,146.72523,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Hawkesbury,,309-311 George Street,Windsor,NSW,2756,-33.60900,150.81667,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Wollongong,,Grnd / L1 Commonwealth Offices 43 Burelli Street,Wollongong,NSW,2500,-34.42703,150.89806,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Wallsend,,70 Robert Street,Wallsend,NSW,2287,-32.90136,151.67182,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Warrnambool,,109 Lava Street,Warrnambool,VIC,3280,-38.38200,142.48540,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Woy Woy,,87-89 Blackwall Road,Woy Woy,NSW,2256,-33.48747,151.32514,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Warrawong (Shopfront),,"Westfield Warrawong, Suite 1, Cnr King and Cowper Streets",Warrawong,NSW,2502,-34.48552,150.88821,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Windsor,,255 High Street,Prahran,VIC,3181,-37.85228,144.99690,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Wonthaggi,,2 Biggs Drive,Wonthaggi,VIC,3995,-38.60437,145.58825,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Warwick,,37-39 Albion Street,Warwick,QLD,4370,-28.21337,152.03436,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Wyong,,25-27 Hely Street,Wyong,NSW,2259,-33.28035,151.42530,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre,Wynnum,,89 Tingal Road,Wynnum,QLD,4178,-27.44666,153.17245,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Yamba,,"Shop 39, Yamba Shopping Fair, 1 - 3 Treelands Dve",Yamba,NSW,2464,-29.42935,153.32708,08:30:00,16:00:00,No
+Centrelink Customer Service Centre,Yarra,,617-619 Victoria Street,Abbotsford,VIC,3067,-37.81087,145.00854,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Camberwell,,527 Riversdale Road,Camberwell,VIC,3124,-37.83132,145.05795,08:30:00,16:30:00,No
+Centrelink Customer Service Centre,Northern Beaches,,660-664 Pittwater Road,Brookvale,NSW,2100,-33.76771,151.26733,08:30:00,16:30:00,No
+Centrelink Customer Service Centre (Small),Bridgewater,,28 Green point Road,Bridgewater,TAS,7030,-42.73880,147.24580,09:00:00,16:00:00,No
+Centrelink Customer Service Centre (Small),Cherbourg,,13 Fisher Street,Cherbourg,QLD,4605,-26.29200,151.95580,09:30:00,15:00:00,12:30:00 to 13:30:00
+Centrelink Customer Service Centre (Small),Yeppoon,,20 Arthur Street,Yeppoon,QLD,4703,-23.13044,150.74224,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink Customer Service Centre (Small),Young,,130 Lovell Street,Young,NSW,2594,-34.31094,148.29214,09:00:00,16:30:00,No
+Centrelink Customer Service Centre (Small),Yass,,204 Comur Street,Yass,NSW,2582,-34.84418,148.91333,08:30:00,16:30:00,12:30:00 to 13:30:00
+Remote Service Centre,Groote Eylandt,,Lot 548 Angurugu,Angurugu,NT,822,-13.98220,136.46060,08:30:00,16:00:00,12:00:00 to 13:00:00
+Remote Service Centre,Borroloola,,337 Robinson Road,Borroloola,NT,854,-16.05336,136.30588,08:30:00,16:00:00,12:00:00 to 13:00:00
+Remote Service Centre,Fitzroy Crossing,,"Unit 6, Tarunda Shopping Centre, 21 Forrest Road",Fitzroy Crossing,WA,6765,-18.19438,125.56748,08:30:00,16:00:00,12:30:00 to 13:30:00
+Remote Service Centre,Galiwinku,,Lot 263 Rarrapul St ,Galiwinku,NT,822,-12.02306,135.56777,08:30:00,16:00:00,12:00:00 to 13:00:00
+Remote Service Centre,Hermannsburg,,"Lot 58, Hermannsburg Community",Hermannsburg,NT,872,-23.94250,132.77715,00:00 ,Mon to Fri - Irregular Hours,No
+Remote Service Centre,Halls Creek,,Lot 102 Roberta Avenue,Halls Creek,WA,6770,-18.22612,127.66719,08:30:00,16:30:00,12:30:00 to 13:30:00
+Remote Service Centre,Laverton,,Lot 498 Laver Place,Laverton,WA,6440,-28.62529,122.40516,08:30:00,16:30:00,12:30:00 to 13:30:00
+Remote Service Centre,Meekatharra,,69 Main Street,Meekatharra,WA,6642,-26.59176,118.49656,08:00:00,16:00:00,12:30:00 to 13:30:00
+Remote Service Centre,Maningrida,,Lot 915 Maningrida Community,Maningrida,NT,822,-12.04968,134.22509,08:30:00,16:00:00,12:00:00 to 13:00:00
+Remote Service Centre,Newman,,"Unit 18, 26 Rogers Place",Newman,WA,6753,-23.35541,119.73164,08:00:00,16:00:00,12:30:00 to 13:30:00
+Remote Service Centre,Northern Peninsula Area,,7 Adidi Street,Bamaga,QLD,4876,-10.88778,142.38827,08:30:00,16:30:00,12:30:00 to 13:30:00
+Remote Service Centre,Papunya,,Papunya Training Centre Lot 261 Papunya Rd,Papunya Community,NT,872,-23.20471,131.91331,00:00 ,Mon to Fri - Irregular Hours,No
+Remote Service Centre,Santa Teresa,,"Lot 321 Santa Teresa Community, Alice Road",Santa Teresa,NT,872,-24.12788,134.37335,00:00 ,Mon to Fri - Irregular Hours,No
+Remote Service Centre,Tiwi Islands,,"Rural Transaction Centre, Lot 397 Kerinavia Highway",Bathurst Island,NT,822,-11.75823,130.63428,08:30:00,16:00:00,12:00:00 to 13:00:00
+Remote Service Centre,Wadeye,,62 Perdjert St,Wadeye,NT,822,-14.23912,129.52141,08:30:00,16:00:00,12:00:00 to 13:00:00
+Remote Service Centre,Western Cape,,Corner Commercial Avenue and Kerr Point Drive,Weipa,QLD,4874,-12.63904,141.86435,08:30:00,16:30:00,12:30:00 to 13:30:00
+Remote Service Centre,Yuendumu,,Cnr Conniston Road and Park Street,Yuendumu,NT,872,-22.25575,131.79531,08:00:00,16:00:00,12:00:00 to 13:00:00
+Remote Service Centre,Yarrabah,,Yarrabah Shopping Centre Esplanade Road,Yarrabah,QLD,4871,-16.90626,145.86610,08:30:00,16:30:00,12:30:00 to 13:30:00
+Centrelink  Self Service Only,myGov - Brisbane,,Cnr Albert & Turbot St,Brisbane,QLD,4000,-27.46724,153.02343,08:30:00,16:30:00,Yes - Irregular Hours
+Centrelink  Self Service Only,myGov - Sydney,,32 Martin Place,Sydney,NSW,2000,-33.86766,151.20933,08:30:00,16:30:00,No
+Centrelink  Self Service Only,myGov - Adelaide,,88 Grenfell St,Adelaide,SA,5000,-34.92401,138.60290,08:30:00,16:30:00,No
+Centrelink  Self Service Only,myGov - Perth,,770 Hay St,Perth,WA,6000,-31.95325,115.85635,08:30:00,16:30:00,No
+Centrelink  ,myGov - Albury,,430 Wilson Street,Albury,NSW,2640,-36.07727,146.92370,08:30:00,16:30:00,No
+Access Point,Alice Springs Hospital,,6 Gap Road,Alice Springs,NT,870,-23.70576,133.87806,,,
+Access Point,Apmere Mwerre,Apmere Mwerre Visitor Park,15 Len Kittle Drive,Alice Springs,NT,870,-23.74346,133.86596,,,
+Access Point,Aramac,,44 Gordon St,Aramac,QLD,4726,-22.97155,145.24257,,,
+Access Point,Ariah Park,,44 - 46 Coolamon St,Ariah Park,NSW,2665,-34.34320,147.21900,,,
+Access Point,Augathella,,98 Main Street,Augathella,QLD,4477,-25.79620,146.58160,,,
+Access Point,Augusta,,66 Allnutt Terrace,Augusta,WA,6290,-34.31340,115.15630,,,
+Access Point,Avoca,,122 High Street,Avoca,VIC,3467,-37.08850,143.47380,,,
+Access Point,Baradine,,13-15 Wellington Street,Baradine,NSW,2396,-30.94950,149.06835,,,
+Access Point,Barellan,,108 Yapunyah Street,Barellan,NSW,2665,-34.28650,146.57010,,,
+Access Point,Batchelor,,Nurndina Street,Batchelor,NT,845,-13.04640,131.02780,,,
+Access Point,Batlow,,Pioneer Street,Batlow,NSW,2730,-35.52090,148.14230,,,
+Access Point,Beachport,,2 Foster Street,Beachport,SA,5280,-37.48159,140.01294,,,
+Access Point,Beacon,,11 Rowlands Street,Beacon,WA,6472,-30.44870,117.86810,,,
+Access Point,Bedourie,,17 Herbert St,Bedourie,QLD,4829,-24.36012,139.47084,,,
+Access Point,Beeac,,65 Main Street,Beeac,VIC,3251,-38.19548,143.63984,,,
+Access Point,Beechworth,,30 Ford Street,Beechworth,VIC,3747,-36.35000,146.68333,,,
+Access Point,Bermagui,,Cnr Bunga & Young Streets,Bermagui,NSW,2546,-36.41710,150.06430,,,
+Access Point,Berrigan,,24-26 Chanter Street,Berrigan,NSW,2712,-35.65700,145.80900,,,
+Access Point,Beulah,,77 Phillips Street,Beulah,VIC,3395,-35.93990,142.41850,,,
+Access Point,Beverley,,132 Vincent St,Beverley,WA,6304,-32.10790,116.93030,,,
+Access Point,Binjari,(Wylunba),Victoria Hwy,Katherine,NT,852,-14.55152,132.18255,,,
+Access Point,Birdsville,,29 Burt Street,Birdsville,QLD,4482,-25.89850,139.35120,,,
+Access Point,Birregurra,,65 Main Street,Birregurra,VIC,3242,-38.33624,143.78345,,,
+Access Point,Blanchetown,,Shaw Street,Blanchetown,SA,5357,-34.35210,139.61240,,,
+Access Point,Bohlevale,Deeragun,52 Palm Dve,Deeragun,QLD,4818,-19.24522,146.67422,,,
+Access Point,Bombala,,141 Maybe Street,Bombala,NSW,2632,-36.90260,149.23820,,,
+Access Point,Bonya,,"Lot 32, Bonya Community Via",Alice Springs,NT,872,-22.78580,136.16890,,,
+Access Point,Boorowa,,6-8 Market St,Boorowa,NSW,2586,-34.43620,148.71790,,,
+Access Point,Boort,,119-121 Godfrey Street,Boort,VIC,3537,-36.11638,143.72416,,,
+Access Point,Bowraville,,39 High St,Bowraville,NSW,2449,-30.65210,152.85310,,,
+Access Point,Boyne Island,Tannum Sands,Cnr Wyndham & Hayes Avenue,Boyne Island,QLD,4680,-23.99430,151.38490,,,
+Access Point,Boyup Brook,,86 Abel Street,Boyup Brook,WA,6244,-33.83160,116.38540,,,
+Access Point,Braidwood,,154 Wallace Street,Braidwood,NSW,2622,-35.44220,149.79947,,,
+Access Point,Bremer Bay,,Mary Street,Bremer Bay,WA,6338,-34.38930,119.37480,,,
+Access Point,Brookton,Southern Avon,89 Robinson Road,Brookton,WA,6306,-32.36697,117.00998,,,
+Access Point,Bulla,,Lot 56 Dump Road,Baines,NT,852,-15.76885,130.03934,,,
+Access Point,Bundarra,,30-32 Bendemeer St,Bundarra,NSW,2359,-30.17580,151.06880,,,
+Access Point,Campbell Town,,Main Road,Campbell Town,TAS,7210,-41.92900,147.49410,,,
+Access Point,Cape Barren,,1 Esplanade,Cape Barren Island,TAS,7257,-40.37082,148.02708,,,
+Access Point,Cardwell,,4 Balliol Street,Cardwell,QLD,4849,-18.26724,146.02953,,,
+Access Point,Chillagoe,,19-25 Queen Street,Chillagoe,QLD,4871,-17.14850,144.51780,,,
+Access Point,Clarence Town,,116 Prince Street,Clarence Town,NSW,2321,-32.58170,151.78450,,,
+Access Point,Cleve,,10 Main Street,Cleve,SA,5640,-33.70300,136.49330,,,
+Access Point,Comboyne,,36 Main St,Comboyne,NSW,2429,-31.60150,152.46500,,,
+Access Point,Coolgardie,,75 Bayley Street,Coolgardie,WA,6429,-30.95491,121.16301,,,
+Access Point,Cooranbong,,"Shop 6, 559 Freemans Drive",Cooranbong,NSW,2265,-33.07400,151.45100,,,
+Access Point,Coorow,,Cnr Main & Bristol Streets,Coorow,WA,6515,-29.88120,116.02420,,,
+Access Point,Coraki,,121 Richmond Terrace,Coraki,NSW,2471,-28.99200,153.28130,,,
+Access Point,Corrigin,,Cnr Larke & Lynch Streets,Corrigin,WA,6375,-32.32900,117.87400,,,
+Access Point,Cowell,,6 Main Street,Cowell,SA,5602,-33.68420,136.92620,,,
+Access Point,Cummeragunja,Cummeragunja,Cummerangunja,Barmah,VIC,3639,-36.01804,144.95873,,,
+Access Point,Cunderdin,,57 Main Street,Cunderdin,WA,6407,-31.65040,117.23980,,,
+Access Point,Currie,,15 George St,Currie,TAS,7256,-39.92900,143.85380,,,
+Access Point,Dalwallinu,,Lot 152-153 Johnston St,Dalwallinu,WA,6609,-30.27710,116.65280,,,
+Access Point,Dartmoor,,84 Greenham Street,Dartmoor,VIC,3304,-37.92300,141.27530,,,
+Access Point,Delegate,,66 Bombala Street,Delegate,NSW,2633,-37.04320,148.95070,,,
+Access Point,Derrinallum,,28 Main Street,Derrinallum,VIC,3325,-37.94740,143.22410,,,
+Access Point,Dimbulah,,10 Raleigh Street,Dimbulah,QLD,4872,-17.14760,145.11300,,,
+Access Point,Donnybrook,,Lot 60 South Western Highway,Donnybrook,WA,6239,-33.57150,115.82310,,,
+Access Point,Dowerin,,13 Stewart Street,Dowerin,WA,6461,-31.19320,117.03140,,,
+Access Point,Drake,,Lot 9 Bruxner Highway,Drake,NSW,2469,-28.92810,152.37520,,,
+Access Point,Dunedoo,,68 Bolaro Street,Dunedoo,NSW,2844,-32.01653,149.39547,,,
+Access Point,Dunjiba,Oodnadatta,Ikartuka Terrace,Oodnadatta,SA,5734,-27.54532,135.44704,,,
+Access Point,Elliston,,6 Memorial Drive,Elliston,SA,5670,-33.64755,134.89114,,,
+Access Point,Eudunda,,6-8 Bruce Street,Eudunda,SA,5374,-34.17180,139.08495,,,
+Access Point,Eugowra,,45 Broad Street,Eugowra,NSW,2806,-33.42770,148.37200,,,
+Access Point,Finley,,4 Howe Street,Finley,NSW,2713,-35.63990,145.56910,,,
+Access Point,Frankland,,55 Wingebellup Rd,Frankland River,WA,6396,-34.36350,117.07730,,,
+Access Point,Frog Hollow,Wurreranginy,Via Great Northern Highway,Kununurra,WA,6743,-17.27520,128.05100,,,
+Access Point,Ganmain,,90 Ford Street,Ganmain,NSW,2702,-34.79430,147.04120,,,
+Access Point,Gascoyne Junction,,4 Scott Street,Gascoyne Junction,WA,6705,-25.05437,115.20901,,,
+Access Point,Georgetown,,St George St,Georgetown,QLD,4871,-18.29270,143.54970,,,
+Access Point,Gingin,,1a Lily King Place,Gingin,WA,6503,-31.34538,115.90529,,,
+Access Point,Giru,,14 Carey Street,Giru,QLD,4809,-19.51330,147.10580,,,
+Access Point,Glenden,,Shop 14 Glenden Town Centre,Glenden,QLD,4743,-21.32910,148.09700,,,
+Access Point,Glenthompson,,24-26 Memorial Drive,Glenthompson,VIC,3293,-37.63620,142.54680,,,
+Access Point,Goomalling,,51-53 Railway Terrace,Goomalling,WA,6460,-31.29900,116.82700,,,
+Access Point,Gordonvale,,72-74 Gordon Street,Gordonvale,QLD,4865,-17.09308,145.78680,,,
+Access Point,Greenbushes,,46 Blackwood Road,Greenbushes,WA,6254,-33.84580,116.05590,,,
+Access Point,Greenvale,,2 Acacia Drive,Greenvale,QLD,4816,-18.99947,144.97994,,,
+Access Point,Grenfell,,92 Main St,Grenfell,NSW,2810,-33.89660,148.16040,,,
+Access Point,Gulgong,,94 Herbert Street,Gulgong,NSW,2852,-32.36590,149.53310,,,
+Access Point,Gunning,,90 Yass Street,Gunning,NSW,2581,-34.78250,149.26630,,,
+Access Point,Harden,,East Street,Harden,NSW,2587,-34.55325,148.36798,,,
+Access Point,Harvey,,5 Gibbs Street,Harvey,WA,6220,-33.07730,115.89710,,,
+Access Point,Herberton,,59 Grace St,Herberton,QLD,4887,-17.38420,145.38590,,,
+Access Point,Heyfield,,5 George Street,Heyfield,VIC,3858,-37.98020,146.78620,,,
+Access Point,Hillston,,175 High Street,Hillston,NSW,2675,-33.48710,145.53290,,,
+Access Point,Home Hill,,58 Eighth Ave,Home Hill,QLD,4806,-19.84460,147.41350,,,
+Access Point,Hopetoun,,75 Lascelles Street,Hopetoun,VIC,3396,-35.72880,142.36380,,,
+Access Point,Hopetoun,,Veal Street,Hopetoun,WA,6348,-33.94870,120.12610,,,
+Access Point,Humpty Doo,,340 Arnhem Hwy,Humpty Doo,NT,836,-12.57257,131.10407,,,
+Access Point,Hyden,,40 Naughton St,Hyden,WA,6359,-32.44760,118.85980,,,
+Access Point,Iluka,,63 Charles St,Iluka,NSW,2466,-29.40000,153.35000,,,
+Access Point,Imangara,Murray Downs,Imangara Community Via,Alice Springs,NT,870,-21.04829,134.67836,,,
+Access Point,Ivanhoe,,Lot 13 Columbus Street,Ivanhoe,NSW,2878,-32.89567,144.30234,,,
+Access Point,Jericho,,8 Darwin St,Jericho,QLD,4728,-23.60210,146.12500,,,
+Access Point,Jerramungup,,8-10 Tobruk St,Jerramungup,WA,6337,-33.94020,118.91820,,,
+Access Point,Julia Creek,,14 Burke St,Julia Creek,QLD,4823,-20.64850,141.73450,,,
+Access Point,Kadjina,Millajiddee,Millajiddee Via,Fitzroy Crossing,WA,6765,-18.82523,124.94227,,,
+Access Point,Kalannie,,67 Roche Street,Kalannie,WA,6468,-30.35070,117.11340,,,
+Access Point,Kambalda,,2-6 Barnes Drive,Kambalda West,WA,6442,-31.21490,121.62670,,,
+Access Point,Kandos,,30 Angus Street,Kandos,NSW,2848,-32.85740,149.97690,,,
+Access Point,Karoonda,,Stokes Road,Karoonda,SA,5307,-35.09370,139.88950,,,
+Access Point,Karylwara,Patjarr,"Lot 1, Patjarr Community Via",Alice Springs,WA,872,-24.61646,126.31427,,,
+Access Point,Kellerberrin,,94 Massingham Street,Kellerberrin,WA,6410,-31.63430,117.71870,,,
+Access Point,Kendall,,19 Comboyne Street,Kendall,NSW,2439,-31.63030,152.70360,,,
+Access Point,Kilmore,,12 Sydney Street,Kilmore,VIC,3764,-37.29435,144.95230,,,
+Access Point,Kimba,,Cnr Cross St And West Tce,Kimba,SA,5641,-33.13910,136.42110,,,
+Access Point,Kinglake,,19 Whittlesea-Kinglake Rd,Kinglake,VIC,3763,-37.53180,145.34100,,,
+Access Point,Kingston Se,,1 Hanson Street,Kingston Se,SA,5275,-36.82820,139.85180,,,
+Access Point,Kojonup,,109 Albany Hwy,Kojonup,WA,6395,-33.83210,117.15150,,,
+Access Point,Kondinin,,3 Gordon Street,Kondinin,WA,6367,-32.49490,118.26760,,,
+Access Point,Koonibba,,2 Burgoyne Street,Koonibba,SA,5690,-31.90252,133.42688,,,
+Access Point,Koorda,,41 Railway Street,Koorda,WA,6475,-30.82380,117.47780,,,
+Access Point,Kulin,,38 Johnston St,Kulin,WA,6365,-32.66820,118.15560,,,
+Access Point,Kybrook Farm,Pine Creek,Kybrook Farm Community Office,Pine Creek,NT,847,-13.82002,131.83428,,,
+Access Point,Lady Barron,,West St,Lady Barron,TAS,7255,-40.21030,148.23900,,,
+Access Point,Lake Bolac,,2110 Glenelg Highway,Lake Bolac,VIC,3351,-37.71410,142.83940,,,
+Access Point,Lake Grace,(lakes Link),Absolon Street,Lake Grace,WA,6353,-33.10290,118.46010,,,
+Access Point,Lameroo,,1a Vardon Terrace,Lameroo,SA,5302,-35.32868,140.51477,,,
+Access Point,Lang Lang,,7 Westernport Road,Lang Lang,VIC,3984,-38.26400,145.56350,,,
+Access Point,Laurieton,,16 Laurie Street,Laurieton,NSW,2443,-31.64405,152.79429,,,
+Access Point,Leeman,,207 Spencer Street,Leeman,WA,6514,-29.94764,114.97845,,,
+Access Point,Leigh Creek,,"Town Centre, Leigh Creek",Leigh Creek,SA,5731,-30.59234,138.40271,,,
+Access Point,Leitchville,,Cnr King Albert & King George Streets,Leitchville,VIC,3567,-35.90920,144.30510,,,
+Access Point,Loxton,,15 - 19 Drabsch Street,Loxton,SA,5333,-34.45156,140.56889,,,
+Access Point,Lucindale,,Musgrave Avenue,Lucindale,SA,5272,-36.97300,140.36720,,,
+Access Point,Maclean,,50 River Street,Maclean,NSW,2463,-29.45913,153.19697,,,
+Access Point,Malanda,,27 English Street,Malanda,QLD,4885,-17.35191,145.59227,,,
+Access Point,Manangatang,,1/31 Wattle Street,Manangatang,VIC,3546,-35.05360,142.88270,,,
+Access Point,Manyallaluk,Eva Valley,Lot 36 Manyallaluk Community,Katherine,NT,852,-14.26782,132.83097,,,
+Access Point,Mathoura,,23 Moama Street,Mathoura,NSW,2710,-35.81290,144.89770,,,
+Access Point,Meningie,,82 Princes Highway,Meningie,SA,5264,-35.69050,139.33720,,,
+Access Point,Merriwa,,42 Vennacher Street,Merriwa,NSW,2329,-32.14180,150.35520,,,
+Access Point,Millaa Millaa,,21 Main Street,Millaa Millaa,QLD,4886,-17.51150,145.61150,,,
+Access Point,Mingenew,,50 Midlands Road,Mingenew,WA,6522,-29.19200,115.44190,,,
+Access Point,Mintabie,,Lot 268 Main St,Mintabie,SA,5724,-27.31410,133.29750,,,
+Access Point,Mirboo North,,88 Ridgway,Mirboo North,VIC,3871,-38.40210,146.16190,,,
+Access Point,Mission Beach,,2018 Tully-Mission Beach Road,Mission Beach,QLD,4852,-17.89580,146.09140,,,
+Access Point,Mitchell,,Corner Mary And Dublin Street,Mitchell,QLD,4465,-26.48584,147.97929,,,
+Access Point,Morawa,,36 Winfield Street,Morawa,WA,6623,-29.21177,116.00892,,,
+Access Point,Morgan,,Cnr 4th & 8th Street,Morgan,SA,5320,-34.03310,139.66870,,,
+Access Point,Morven,,Albert Street,Morven,QLD,4468,-26.41590,147.11290,,,
+Access Point,Mount Garnet,,Kennedy Highway,Mount Garnet,QLD,4872,-17.67600,145.11470,,,
+Access Point,Mount Larcom,,47 Raglan Street,Mount Larcom,QLD,4695,-23.79680,150.96880,,,
+Access Point,Moura,,Shop 2/39 Young Street,Moura,QLD,4718,-24.57230,149.97300,,,
+Access Point,Mowanjum,,Gibb River Road,Derby,WA,6728,-17.35506,123.70025,,,
+Access Point,Mt Swan Station,Mc Donald Downs Station,Mt Swan Station,Alice Springs,NT,872,-22.61265,135.03457,,,
+Access Point,Mukinbudin,,8 White Street,Mukinbudin,WA,6479,-30.91570,118.20370,,,
+Access Point,Murray Downs Station,Imangara,Murray Downs Community Via,Alice Springs,NT,872,-21.04287,134.67647,,,
+Access Point,Myrtleford,,32 Smith St,Myrtleford,VIC,3737,-36.55950,146.72380,,,
+Access Point,Nannup,,10 Warren Road,Nannup,WA,6275,-33.97700,115.76540,,,
+Access Point,Napranum,,123 Moingun Road,Napranum,QLD,4874,-12.68364,141.88835,,,
+Access Point,Narembeen,,2/19 Churchill Street,Narembeen,WA,6369,-32.06540,118.39480,,,
+Access Point,Nathalia,,44 Blake Street,Nathalia,VIC,3638,-36.05780,145.20610,,,
+Access Point,Nepabunna,,"Arkaroola Road, Nepabunna Via",Copley,SA,5732,-30.58163,138.97998,,,
+Access Point,Neutral Junction Station,,Tara Community Via,Alice Springs,NT,872,-21.51458,133.98638,,,
+Access Point,Newdegate,,Collier Street,Newdegate,WA,6355,-33.09130,119.01700,,,
+Access Point,Newstead,,45 Lyons Street,Newstead,VIC,3462,-37.10770,144.06300,,,
+Access Point,Northampton,,Lot 475 Robinson Street,Northampton,WA,6535,-28.34907,114.63464,,,
+Access Point,Northcliffe,,Muirillup Road,Northcliffe,WA,6262,-34.63080,116.11960,,,
+Access Point,Ongerup,,Jaekel Street,Ongerup,WA,6336,-33.96270,118.48820,,,
+Access Point,Ouyen,,28 Britt Street,Ouyen,VIC,3490,-35.07399,142.31276,,,
+Access Point,Pemberton,,29 Brockman St,Pemberton,WA,6260,-34.44630,116.03210,,,
+Access Point,Perenjori,,Fowler Street,Perenjori,WA,6620,-29.44020,116.28550,,,
+Access Point,Pilliga,,60 Dangar Street,Pilliga,NSW,2388,-30.35150,148.88750,,,
+Access Point,Pingrup,,2 Burston Street,Pingrup,WA,6343,-33.53430,118.50840,,,
+Access Point,Pinnaroo,,2 Bundey Tce,Pinnaroo,SA,5304,-35.25770,140.90260,,,
+Access Point,Pomona,,1 Memorial Ave,Pomona,QLD,4568,-26.36300,152.85600,,,
+Access Point,Pooncarie,,Tarcoola Street,Pooncarie,NSW,2648,-33.38990,142.56910,,,
+Access Point,Port Douglas,,6-10 Mowbray Street,Port Douglas,QLD,4877,-16.48440,145.46310,,,
+Access Point,Port Macdonnell,,7 Charles Street,Port Macdonnell,SA,5291,-38.05239,140.69902,,,
+Access Point,Portland,,20 Green Street,Portland,NSW,2847,-33.35330,149.97390,,,
+Access Point,Pyramid Hill,,22 Kelly Street,Pyramid Hill,VIC,3575,-36.05448,144.11521,,,
+Access Point,Quairading,,1 Parker Street,Quairading,WA,6383,-32.00820,117.40030,,,
+Access Point,Quambatook,,8 Guthrie Street,Quambatook,VIC,3540,-35.85070,143.51660,,,
+Access Point,Quilpie,,52 Brolga Sreet,Quilpie,QLD,4480,-26.61368,144.26625,,,
+Access Point,Ravenshoe,,Ascham St,Ravenshoe,QLD,4888,-17.61312,145.48115,,,
+Access Point,Ravensthorpe,,Dunn Street,Ravensthorpe,WA,6346,-33.58130,120.04400,,,
+Access Point,Red Gum Store,Mc Donald Downs Station,"Redgum Store, Via",Alice Springs,NT,872,-22.40848,135.11307,,,
+Access Point,Richmond,,50 Goldring Street,Richmond,QLD,4822,-20.73180,143.13450,,,
+Access Point,Rittarangu,Urapunga,Urapunga Community,Katherine,NT,852,-14.70519,134.56226,,,
+Access Point,Robe,,Mundy Terrace,Robe,SA,5276,-37.16280,139.75620,,,
+Access Point,Robertstown,,7 Commercial Street,Robertstown,SA,5381,-33.98988,139.07959,,,
+Access Point,Rollingstone,,44 Community Crescent,Rollingstone,QLD,4816,-19.04350,146.39160,,,
+Access Point,Roxby Downs,,24 Tutop St,Roxby Downs,SA,5725,-30.56305,136.89546,,,
+Access Point,Rushworth,,67 High Street,Rushworth,VIC,3612,-36.58710,145.01690,,,
+Access Point,Sanctuary Point,,"Shop 1, 204 Kerry Street",Sanctuary Point,NSW,2540,-35.10560,150.62503,,,
+Access Point,Sarina,,65 Broad Street,Sarina,QLD,4737,-21.42132,149.21613,,,
+Access Point,Scotdesco,,Eyre Highway,Bookabie,SA,5690,-31.83921,132.67941,,,
+Access Point,Sea Lake,,54-56 Best Street,Sea Lake,VIC,3533,-35.50490,142.84770,,,
+Access Point,Silkwood,,78 Victoria Street,Silkwood,QLD,4856,-17.74550,146.02250,,,
+Access Point,Southern Cross,,Cnr Canopus & Altair Streets,Southern Cross,WA,6426,-31.23090,119.32560,,,
+Access Point,Stanhope,,25 Birdwood Avenue,Stanhope,VIC,3623,-36.44581,144.98408,,,
+Access Point,Stephens Island,Ugar,Lot 1 Randall Street,Stephens Island,QLD,4875,-9.50655,143.54580,,,
+Access Point,Sussex Inlet,,161-163 Jacobs Drive,Sussex Inlet,NSW,2540,-35.16480,150.59170,,,
+Access Point,Swansea,,40 Franklin Street,Swansea,TAS,7190,-42.12302,148.07349,,,
+Access Point,Tabulam,,14a Jubullum Street,Tabulam,NSW,2469,-28.89462,152.52891,,,
+Access Point,Talbingo,,4/49 Lampe Street,Talbingo,NSW,2720,-35.58020,148.30250,,,
+Access Point,Tambellup,,34 Norrish Street,Tambellup,WA,6320,-34.04010,117.63910,,,
+Access Point,Tambo,,24 Arthur Street,Tambo,QLD,4478,-24.88440,146.25410,,,
+Access Point,Taroom,,10 Yaldwyn Street,Taroom,QLD,4420,-25.63020,149.85220,,,
+Access Point,Tarwin Lower,,4/47 River Drive,Tarwin Lower,VIC,3956,-38.70107,145.86807,,,
+Access Point,Terang,,66-68 High Street,Terang,VIC,3264,-38.24040,142.91630,,,
+Access Point,Theodore,,74 The Boulevard,Theodore,QLD,4719,-24.94297,150.07562,,,
+Access Point,Tibooburra,,1 Silver City Hwy,Tibooburra,NSW,2880,-29.43170,142.01050,,,
+Access Point,Tingha,,7 Opal Street,Tingha,NSW,2369,-29.95540,151.21170,,,
+Access Point,Tjirrkarli,,"Lot 13, Second St, Tjirrkarli Community Via",Alice Springs,WA,872,-26.00145,125.47162,,,
+Access Point,Tjukurla,,"Lot 28, Tjukurla Community Via",Alice Springs,NT,872,-24.34750,128.71959,,,
+Access Point,Tocumwal,,2 Deniliquin Road,Tocumwal,NSW,2714,-35.81500,145.56810,,,
+Access Point,Toodyay,,79 Stirling Terrace,Toodyay,WA,6566,-31.54930,116.46510,,,
+Access Point,Tottenham,,69 Umang Street,Tottenham,NSW,2873,-32.24160,147.36930,,,
+Access Point,Tullamore,,37 Cardigan Street,Tullamore,NSW,2874,-32.63195,147.56404,,,
+Access Point,Ultima,,2 Dillon Street,Ultima,VIC,3544,-35.47520,143.26500,,,
+Access Point,Urana,,30-32 William Street,Urana,NSW,2645,-35.33170,146.26890,,,
+Access Point,Urandangi,The Dangi,Cnr Hutton & Margaret Streets - Urandangi,Mount Isa,QLD,4825,-21.60966,138.31682,,,
+Access Point,Wagait Beach,Ironstone,Wagait Beach Via,Darwin,NT,801,-12.43997,130.74588,,,
+Access Point,Wallan,,42 Bentinck Street,Wallan,VIC,3756,-37.41270,144.97920,,,
+Access Point,Wallerawang,,Main Street,Wallerawang,NSW,2845,-33.41600,150.06900,,,
+Access Point,Walpole,,Latham Avenue,Walpole,WA,6398,-34.97830,116.73350,,,
+Access Point,Wandering,,18 Watts Street,Wandering,WA,6308,-32.67850,116.67040,,,
+Access Point,Waroona,,10 Henning Street,Waroona,WA,6215,-32.84550,115.92230,,,
+Access Point,Watinuma,,"Amata Watinuma Rd, Watinuma Homeland Via",Alice Springs,SA,872,-26.52083,131.88086,,,
+Access Point,West Arthur,Darkan,27-29 Burrows Street,Darkan,WA,6392,-33.33640,116.74090,,,
+Access Point,White Cliffs,,Corner Keraro Road & Johnston Street,White Cliffs,NSW,2836,-30.84850,143.10740,,,
+Access Point,Whitemark,Flinders Island,Flinders Island,Whitemark,TAS,7255,-40.11186,148.01856,,,
+Access Point,Willaura,,84 Main Street,Willaura,VIC,3379,-37.54380,142.74160,,,
+Access Point,Williams,,5 Brooking Street,Williams,WA,6391,-33.02600,116.87990,,,
+Access Point,Wilora,Stirling Cattle Station,Wilora Community Via,Alice Springs,NT,872,-21.74135,133.73141,,,
+Access Point,Wongan Hills,,Lot 1 Wongan Road,Wongan Hills,WA,6603,-30.88960,116.71700,,,
+Access Point,Wudinna,,"Ramsey Building, 44 Eyre Highway",Wudinna,SA,5652,-33.04770,135.45770,,,
+Access Point,Wurankuwu,Ranku,Kerinaiua Highway,Bathurst Island,NT,822,-11.61738,130.27664,,,
+Access Point,Wyalkatchem,,Lot 5700 Railway Terrace,Wyalkatchem,WA,6485,-31.17960,117.38120,,,
+Access Point,Wycheproof,,280 Broadway,Wycheproof,VIC,3527,-36.07748,143.22617,,,
+Access Point,Yankalilla,,181 Main South Road,Yankalilla,SA,5203,-35.45460,138.33560,,,
+Access Point,Yarra Junction,,2463 Warburton Highway,Yarra Junction,VIC,3797,-37.78152,145.61450,,,
+Access Point,Yeoval,,Cnr Forbes And Obley Street,Yeoval,NSW,2868,-32.75550,148.65260,,,
+Access Point,York,,89 Avon Terrace,York,WA,6302,-31.89110,116.76750,,,
+Access Point,Yurmulun,Pandanus Park,Community Admin Office,Derby,WA,6728,-17.73689,123.65945,,,
+Agent,Agnes Water,,71 Springs Rd,Agnes Water,QLD,4677,-24.20270,151.89800,,,
+Agent,Alexandra,,58 Grant Street,Alexandra,VIC,3714,-37.19100,145.71100,,,
+Agent,Ali Curung,,"Lot 278, Kinjurra Drive, Ali Curung Cmty Via",Alice Springs,NT,872,-21.00502,134.40715,,,
+Agent,Alpurrurulam,,Alpurrurulam Community Via,Mount Isa,NT,4825,-20.98420,137.84750,,,
+Agent,Amata,,"Lot 202, Amata Community Via",Alice Springs,SA,872,-26.15150,131.14842,,,
+Agent,Amoonguna,,"Lot 61, White Gum Drive, Amoonguna Cmty Via",Alice Springs,NT,870,-23.76638,133.93658,,,
+Agent,Ampilatwatja,,Lot 3 Main Street Ampilawatja Community Via,Alice Springs,NT,872,-21.65566,135.22569,,,
+Agent,Apollo Bay,,75 Mc Lachlan St,Apollo Bay,VIC,3233,-38.75380,143.66410,,,
+Agent,Aputula,Finke,"Lot 1, Apatula Community Via",Alice Springs,NT,872,-25.57909,134.57571,,,
+Agent,Areyonga,,"Lot 58, Utju Drive, Areyonga Community Via",Alice Springs,NT,872,-24.07513,132.27274,,,
+Agent,Ashford,,30-32 Albury Street,Ashford,NSW,2361,-29.32150,151.09530,,,
+Agent,Atitjere,Harts Range,"Lot 106, Atitjere Community Via",Alice Springs,NT,872,-22.98753,134.93443,,,
+Agent,Aurukun,,5 Kang Kang Road,Aurukun,QLD,4892,-13.35924,141.72804,,,
+Agent,Babinda,,51 Munro St,Babinda,QLD,4861,-17.34430,145.92280,,,
+Agent,Badu Island,,199 Nona Street,Badu Island,QLD,4875,-10.15845,142.16503,,,
+Agent,Balaklava,,Wallace Street,Balaklava,SA,5461,-34.14080,138.43600,,,
+Agent,Ballan,,143 Inglis Street,Ballan,VIC,3342,-37.60021,144.22812,,,
+Agent,Balranald,,95 Court Street,Balranald,NSW,2715,-34.64040,143.56300,,,
+Agent,Barcaldine,,65 Ash St,Barcaldine,QLD,4725,-23.55350,145.29030,,,
+Agent,Bardi,One Arm Point,235km Nrth Of Broome Buccaneer Archipeligo,Broome,WA,6725,-16.44525,123.06056,,,
+Agent,Barraba,,27 Alice Street,Barraba,NSW,2347,-30.38000,150.60770,,,
+Agent,Barunga,Bamyili,Barunga Community,Barunga,NT,852,-14.52584,132.86502,,,
+Agent,Beaconsfield,,West Street,Beaconsfield,TAS,7270,-41.20110,146.81390,,,
+Agent,Beagle Bay,,Beagle Bay Community,Broome,WA,6725,-16.98325,122.66505,,,
+Agent,Beaufort,,72 Neill Street,Beaufort,VIC,3373,-37.42880,143.38360,,,
+Agent,Bellingen,,1/29 Hyde Street,Bellingen,NSW,2454,-30.44980,152.89780,,,
+Agent,Belyuen,Delissaville,Cox Peninsular Road,Belyuen,NT,822,-12.53808,130.69937,,,
+Agent,Bidyadanga,,Bidyadanga Community,Broome,WA,6725,-18.68458,121.77981,,,
+Agent,Biggenden,,47 Edward Street,Biggenden,QLD,4621,-25.51060,152.04360,,,
+Agent,Bingara,,24 Maitland Street,Bingara,NSW,2404,-29.86700,150.57100,,,
+Agent,Blackall,,16 Short St,Blackall,QLD,4472,-24.42110,145.46400,,,
+Agent,Blackbutt,,69 Hart Street,Blackbutt,QLD,4306,-26.88860,152.09970,,,
+Agent,Blackwater,,Wey St,Blackwater,QLD,4717,-23.58300,148.87820,,,
+Agent,Boddington,,20 Bannister Road,Boddington,WA,6390,-32.80220,116.47510,,,
+Agent,Boigu Island,,66 Chambers Street,Boigu Island,QLD,4875,-9.23232,142.22030,,,
+Agent,Boonah,,4 Little High Street,Boonah,QLD,4310,-27.99840,152.68440,,,
+Agent,Bordertown,,63 Farquhar Street,Bordertown,SA,5268,-36.31130,140.77190,,,
+Agent,Boulia,,Burke Street,Boulia,QLD,4829,-22.90824,139.90648,,,
+Agent,Brewarrina,,57 Bathurst Street,Brewarrina,NSW,2839,-29.95840,146.87000,,,
+Agent,Bridgetown,,150 Hampton Street,Bridgetown,WA,6255,-33.95670,116.13750,,,
+Agent,Bulahdelah,,63 Stroud Street,Bulahdelah,NSW,2423,-32.40920,152.20500,,,
+Agent,Burketown,,5 Bowen Street,Burketown,QLD,4830,-17.73664,139.54457,,,
+Agent,Burringurrah,,Burringurrah Community,Meekatharra,WA,6642,-24.65039,116.93196,,,
+Agent,Camooweal,,31 Barkly Street,Camooweal,QLD,4828,-19.92280,138.12157,,,
+Agent,Camperdown,,4 Church Street,Camperdown,VIC,3260,-38.23171,143.14674,,,
+Agent,Cann River,,13 Princes Highway,Cann River,VIC,3890,-37.56576,149.15053,,,
+Agent,Canteen Creek,Owairtilla,"Lot 45, Canteen Creek Via",Alice Springs,NT,872,-20.64480,135.58614,,,
+Agent,Caroona,Walhallow,Via,Caroona,NSW,2343,-31.40450,150.42310,,,
+Agent,Casterton,,79 Henty Street,Casterton,VIC,3311,-37.58672,141.40314,,,
+Agent,Castlemaine,,65 Templeton Street,Castlemaine,VIC,3450,-37.06380,144.21830,,,
+Agent,Charlton,,High Street,Charlton,VIC,3525,-36.26810,143.34940,,,
+Agent,Chinchilla,,67-71 Middle Street,Chinchilla,QLD,4413,-26.73960,150.62660,,,
+Agent,Christmas Island,,Murray Road,Christmas Island,WA,6798,-10.42441,105.68026,,,
+Agent,Clare,,"Shop 7, 25 Old North Road",Clare,SA,5453,-33.83397,138.61362,,,
+Agent,Clermont,Clermont Community Housing,2 Limes St,Clermont,QLD,4721,-22.82330,147.64030,,,
+Agent,Cloncurry,,12a Ramsay Street,Cloncurry,QLD,4824,-20.70173,140.51179,,,
+Agent,Cobar,,19 Barton Street,Cobar,NSW,2835,-31.50010,145.83950,,,
+Agent,Cobram,,43-45 Punt Road,Cobram,VIC,3644,-35.91900,145.65360,,,
+Agent,Cocos Islands,Cocos (keeling) Islands,Jalan Bunga Mawar,Home Island Cocos (Keeling) Islands,WA,6799,-12.11640,96.89717,,,
+Agent,Coen,,29 Taylor Street,Coen,QLD,4892,-13.94459,143.19809,,,
+Agent,Collarenebri,,2 Wilson Street,Collarenebri,NSW,2833,-29.54097,148.57970,,,
+Agent,Collie,,154-158 Forrest St,Collie,WA,6225,-33.35710,116.14851,,,
+Agent,Collinsville,,81 Garrick St,Collinsville,QLD,4804,-20.55360,147.84330,,,
+Agent,Condobolin,,18 William Street,Condobolin,NSW,2877,-33.08940,147.14690,,,
+Agent,Cooktown,,92 Charlotte Street,Cooktown,QLD,4895,-15.47650,145.23616,,,
+Agent,Coonabarabran,,30 John Street,Coonabarabran,NSW,2357,-31.27240,149.27610,,,
+Agent,Coonamble - Murdi Paaki,,2 Namoi Street,Coonamble,NSW,2829,-30.94966,148.38484,,,
+Agent,Coonamble Rtc,,26 Castlereagh Street,Coonamble,NSW,2829,-30.95130,148.38880,,,
+Agent,Cootamundra,,169a Parker Street,Cootamundra,NSW,2590,-34.64180,148.02430,,,
+Agent,Corowa,,109 To 111 Sanger Street,Corowa,NSW,2646,-35.99797,146.39126,,,
+Agent,Corryong,,39 Hanson Street,Corryong,VIC,3707,-36.19530,147.90580,,,
+Agent,Cosmo Newberry,,Cosmo Newberry Aboriginal Corporation,Cosmo Newbery,WA,6440,-27.99435,122.89799,,,
+Agent,Cowes,,56 Church Street,Cowes,VIC,3922,-38.45197,145.23890,,,
+Agent,Crookwell,,48 Denison Street,Crookwell,NSW,2583,-34.45650,149.46680,,,
+Agent,Crows Nest,,16 Charlotte Street,Crows Nest,QLD,4355,-27.26075,152.05629,,,
+Agent,Cue,,33 Robinson Street,Cue,WA,6640,-27.42010,117.89500,,,
+Agent,Culcairn,,40 Balfour Street,Culcairn,NSW,2660,-35.66820,147.03460,,,
+Agent,Cunnamulla,,38 Stockyard Street,Cunnamulla,QLD,4490,-28.07110,145.68512,,,
+Agent,Dajarra,,Matherson Street,Dajarra,QLD,4825,-21.69454,139.51373,,,
+Agent,Daly River,Nauiyu Nambiyu,Nauiyu Nambiyu Community,Daly River,NT,822,-13.75111,130.69418,,,
+Agent,Dareton,,51 Sturt Place,Dareton,NSW,2717,-34.09470,142.04460,,,
+Agent,Dauan Island,Dauan Island,Lot 29 Main Street,Dauan Island,QLD,4875,-9.41352,142.53819,,,
+Agent,Daylesford,,13 Hospital Street,Daylesford,VIC,3460,-37.33720,144.14380,,,
+Agent,Deloraine,,8 Emu Bay Road,Deloraine,TAS,7304,-41.52480,146.65690,,,
+Agent,Denham,Shark Bay,10 Denham Road,Denham,WA,6537,-25.92860,113.53580,,,
+Agent,Denmark,,2 Strickland Street,Denmark,WA,6333,-34.95922,117.35444,,,
+Agent,Dirranbandi,Dirranbandi Rural Transation Centre,35 Railway Street,Dirranbandi,QLD,4486,-28.58520,148.22520,,,
+Agent,Djarindjin,Lombadina,Djarindjin Community Via,Broome,WA,6725,-16.51539,122.89350,,,
+Agent,Docker River,Kaltukatjara,"Lot 227, Docker River Community Via",Alice Springs,NT,872,-24.87453,129.08331,,,
+Agent,Donald,,31 Woods Street,Donald,VIC,3480,-36.37010,142.98170,,,
+Agent,Dongara,Port Denison,11 Moreton Terrace,Dongara,WA,6525,-29.25100,114.93100,,,
+Agent,Doomadgee,,Sharpe Street,Doomadgee,QLD,4830,-17.94043,138.82974,,,
+Agent,Dorrigo,,"Multi-Purpose Service, Beech Street",Dorrigo,NSW,2453,-30.34090,152.71140,,,
+Agent,Dover,,Huon Highway,Dover,TAS,7117,-43.31380,147.01610,,,
+Agent,Dungog,,103 Dowling Street,Dungog,NSW,2420,-32.40490,151.75290,,,
+Agent,Dunolly,,109 Broadway Street,Dunolly,VIC,3472,-36.85860,143.73050,,,
+Agent,Eden,,Cnr Mitchell & Mlay St,Eden,NSW,2551,-37.06220,149.90510,,,
+Agent,Edenhope,,49 Elizabeth Street,Edenhope,VIC,3318,-37.03636,141.28989,,,
+Agent,Eidsvold,,57 Morton Street,Eidsvold,QLD,4627,-25.37348,151.12752,,,
+Agent,Elliott,,9 Lewis St,Elliott,NT,862,-17.55372,133.54264,,,
+Agent,Engawala,Alcoota Station,"Lot 2, Cnr Turner & Webb St",Alice Springs,NT,872,-22.80275,134.45484,,,
+Agent,Enngonia,,9 Irrara Street,Enngonia,NSW,2840,-29.31860,145.84835,,,
+Agent,Epenarra,Epenarra,"Lot 53, Epenarra Community Via",Tennant Creek,NT,862,-20.43511,135.23930,,,
+Agent,Ernabella,Pukatja,Ernabella Community Via,Alice Springs,SA,872,-26.27465,132.13146,,,
+Agent,Erub Island,Darnley Island,Medigee Village,Erub,QLD,4875,-9.58137,143.78213,,,
+Agent,Esk,,Ipswich Street,Esk,QLD,4312,-27.23929,152.42110,,,
+Agent,Euroa,,46-50 Binney Street,Euroa,VIC,3666,-36.75070,145.56990,,,
+Agent,Evans Head,,"Johnny's Arcade, Oak Street",Evans Head,NSW,2473,-29.11780,153.43170,,,
+Agent,Exmouth,,12 Learmonth Street,Exmouth,WA,6707,-21.92900,114.12360,,,
+Agent,Forbes,,131 - 135 Rankin Street,Forbes,NSW,2871,-33.38690,148.00870,,,
+Agent,Foster,,Cnr Station Road & Court Street,Foster,VIC,3960,-38.65350,146.20200,,,
+Agent,Fregon,Kaltjiti,Fregon Community Via,Alice Springs,SA,872,-26.76334,132.02821,,,
+Agent,Gapuwiyak,Lake Evella,Lot 203,Gapuwiyak,NT,880,-12.50605,135.80887,,,
+Agent,Gatton,,7 William Street,Gatton,QLD,4343,-27.55643,152.27878,,,
+Agent,Gayndah,,PO Box 390,Gayndah,QLD,4625,-25.62360,151.60810,,,
+Agent,George Town,,12 Elizabeth Street,George Town,TAS,7253,-41.10296,146.82352,,,
+Agent,Gilgandra,,20 Miller Street,Gilgandra,NSW,2827,-31.71090,148.66860,,,
+Agent,Gloucester,,14 Queen Street,Gloucester,NSW,2422,-32.00680,151.95960,,,
+Agent,Gnowangerup,,Yougenup Rd,Gnowangerup,WA,6335,-33.93710,118.00650,,,
+Agent,Goodooga,,8 Brenda Street,Goodooga,NSW,2838,-29.11447,147.45586,,,
+Agent,Grantville,,1504-1510 Bass Highway,Grantville,VIC,3984,-38.41520,145.53470,,,
+Agent,Gulargambone,,Cnr Bourbah & Munnell Sts,Gulargambone,NSW,2828,-31.32980,148.47080,,,
+Agent,Gulin Gulin,Bulman,Gulin Gulin Council Office,Katherine,NT,852,-13.66516,134.33516,,,
+Agent,Gunbalanya,"Kunbarllanjnj, Oenpelli",West Arnhem Shire Council,Jabiru,NT,886,-12.32279,133.05643,,,
+Agent,Gundagai,,255 Sheridan Street,Gundagai,NSW,2722,-35.06370,148.10620,,,
+Agent,Hay,,204-216 Lachlan Street,Hay,NSW,2711,-34.51250,144.84670,,,
+Agent,Heathcote,,55 Hospital Street,Heathcote,VIC,3523,-36.92519,144.70998,,,
+Agent,Hermannsburg,Ntaria,"Lot 58, Hermannsburg Community",Hermannsburg,NT,872,-23.94250,132.77715,,,
+Agent,Hodgson Downs,"Minyeri, Alawa",Hodgson Downs Community,Katherine,NT,852,-15.22174,134.08331,,,
+Agent,Holbrook,,39 Young St,Holbrook,NSW,2644,-35.72320,147.31620,,,
+Agent,Hope Vale,,33 - 36 Muni Street,Hope Vale,QLD,4895,-15.29722,145.10821,,,
+Agent,Hughenden,,32 Stansfield St,Hughenden,QLD,4821,-20.85110,144.19480,,,
+Agent,Ikuntji,Haasts Bluff,"Lot 57, Ikuntji Community Via",Alice Springs,NT,872,-23.44875,131.88303,,,
+Agent,Imanpa,Mt Ebenezer,"Lot 47, Imanpa Community Via",Alice Springs,NT,872,-25.13063,132.57065,,,
+Agent,Imintji,,Gibb River Road,Derby,WA,6728,-17.15015,125.46033,,,
+Agent,Indulkana,Iwantja,Indulkana,Alice Springs,SA,872,-26.96568,133.30863,,,
+Agent,Inglewood,,53 Albert Street,Inglewood,QLD,4387,-28.41670,151.07900,,,
+Agent,Injinoo,,Mc Donnell Street,Injinoo,QLD,4876,-10.90460,142.32580,,,
+Agent,Jabiru,Manabadurma,Kakadu Employment Centre,Jabiru,NT,886,-12.67319,132.83507,,,
+Agent,Jameson,Mantamaru,"Lot 1, Jameson Community Via",Alice Springs,SA,872,-25.86219,127.66427,,,
+Agent,Jigalong,,Jigalong Community,Newman,WA,6753,-23.35949,120.78458,,,
+Agent,Jilkminggan,Duck Creek,Roper Highway,Jilkminggan,NT,852,-14.95306,133.30000,,,
+Agent,Jindabyne,,Kosciusko Rd,Jindabyne,NSW,2627,-36.41880,148.61730,,,
+Agent,Junee,,29 Belmore Street,Junee,NSW,2663,-34.87060,147.58490,,,
+Agent,Jurien Bay,,67 Bashford Street,Jurien Bay,WA,6516,-30.30662,115.03810,,,
+Agent,Kalbarri,,Lot 535 Hackney Street,Kalbarri,WA,6536,-27.71180,114.16550,,,
+Agent,Kalkarindji,Wave Hill,Government Council,Kalkarindji,NT,852,-17.39934,130.80307,,,
+Agent,Kalumburu,,Gibb River-Kalumburu Road Drysdale River,Kalumburu,WA,6740,-14.29500,126.64341,,,
+Agent,Kanpi,Murputja,Kanpi Community Via,Alice Springs,SA,872,-26.16808,130.11832,,,
+Agent,Katanning,,16 Albion Street,Katanning,WA,6317,-33.66900,117.55622,,,
+Agent,Keith,,34 Hender Street,Keith,SA,5267,-36.09817,140.35489,,,
+Agent,Kerang,,3 Scoresby Street,Kerang,VIC,3579,-35.73313,143.91972,,,
+Agent,Kilkivan,,26 Bligh Street,Kilkivan,QLD,4600,-26.08360,152.23680,,,
+Agent,Kingscote,Kangaroo Island,22 Telegraph Road,Kingscote,SA,5223,-35.65610,137.63830,,,
+Agent,Kintore,Walungurru,"Lot 113, Kintore Community Via",Alice Springs,NT,872,-23.27573,129.38428,,,
+Agent,Kiwirrkurra,,"Lot 87, Kiwirrkurra Community Via",Alice Springs,WA,872,-22.81549,127.76472,,,
+Agent,Korumburra,,21 Shellcott Road,Korumburra,VIC,3950,-38.43282,145.82314,,,
+Agent,Kowanyama,,510 Chapman Road,Kowanyama,QLD,4892,-15.47460,141.74367,,,
+Agent,Kubin,Kubin Community,Lot 12 Ikilgau Yabu Kubin Community,Moa Island,QLD,4875,-10.23403,142.21845,,,
+Agent,Kunawarritji,,Canning Stock Route,Newman,WA,6753,-22.33012,124.72571,,,
+Agent,Kuranda,,36 Coondoo Street,Kuranda,QLD,4881,-16.82058,145.63659,,,
+Agent,Kyabram,,21 - 25 Lake Road,Kyabram,VIC,3620,-36.31600,145.04570,,,
+Agent,Kyneton,,47 High Street,Kyneton,VIC,3444,-37.24790,144.45350,,,
+Agent,Kyogle,,8 Geneva Street,Kyogle,NSW,2474,-28.62010,153.00500,,,
+Agent,Laidley,,13 Mary Street,Laidley,QLD,4341,-27.63960,152.39390,,,
+Agent,Lajamanu,(hooker Creek),Lajamanu Community,Lajamanu,NT,852,-18.33812,130.63742,,,
+Agent,Lake Cargelligo,,30 Foster Street,Lake Cargelligo,NSW,2672,-33.29891,146.37032,,,
+Agent,Lake Tyers,,Rules Road,Lake Tyers,VIC,3887,-37.84010,148.09900,,,
+Agent,Lakes Entrance,,18-26 Jemmeson Street,Lakes Entrance,VIC,3909,-37.87930,147.99140,,,
+Agent,Lancelin,,117 Gingin Road,Lancelin,WA,6044,-31.01910,115.33450,,,
+Agent,Laramba,,"Lot 76, Laramba Community Via",Alice Springs,NT,872,-22.53674,132.75573,,,
+Agent,Laura,,Lot 3 George Street,Laura,QLD,4892,-15.56148,144.44897,,,
+Agent,Leongatha,,2 Michael Place,Leongatha,VIC,3953,-38.47640,145.94570,,,
+Agent,Leonora,,78 Tower Street,Leonora,WA,6438,-28.88484,121.32463,,,
+Agent,Lockhart River,,Maathvy Street,Lockhart River,QLD,4892,-12.78660,143.34154,,,
+Agent,Looma,,30 Kms Off Great Northern Highway,Derby,WA,6728,-18.03980,124.14925,,,
+Agent,Lorne,,Mountjoy Parade,Lorne,VIC,3232,-38.54089,143.97515,,,
+Agent,Lowood,,3 Michel St,Lowood,QLD,4311,-27.46407,152.57905,,,
+Agent,Mabuiag Island,,Map Street,Mabuiag Island,QLD,4875,-9.95697,142.18853,,,
+Agent,Maitland,,3 Robert Street,Maitland,SA,5573,-34.37380,137.67270,,,
+Agent,Mallacoota,,Cnr Genoa Rd & Mattsson St,Mallacoota,VIC,3892,-37.55820,149.75400,,,
+Agent,Manilla,,210 Manilla Street,Manilla,NSW,2346,-30.74660,150.72030,,,
+Agent,Manjimup,,45 Rose St,Manjimup,WA,6258,-34.23980,116.14570,,,
+Agent,Mannum,,71 Randell Street,Mannum,SA,5238,-34.91830,139.30360,,,
+Agent,Mansfield,,145-147 High Street,Mansfield,VIC,3722,-37.05600,146.08960,,,
+Agent,Mapoon,,23 Weipa Road,Mapoon,QLD,4874,-12.01892,141.90126,,,
+Agent,Marble Bar,Pipunya,Lot 11 Francis Street,Marble Bar,WA,6760,-21.17168,119.74520,,,
+Agent,Margaret River,,"Unit 5, 145 Bussell Highway",Margaret River,WA,6285,-33.95230,115.07390,,,
+Agent,Mataranka,,22 Stirling St,Mataranka,NT,852,-14.92539,133.06181,,,
+Agent,Menindee,,51 Yartla Street,Menindee,NSW,2879,-32.39068,142.41828,,,
+Agent,Menzies,,Walsh St,Menzies,WA,6436,-29.69334,121.00304,,,
+Agent,Mer Island,Murray Island,Lot 2 Marou Street,Murray Island,QLD,4875,-9.91075,144.04754,,,
+Agent,Merimbula,,5-7 Merimbula Drive,Merimbula,NSW,2548,-36.88781,149.91035,,,
+Agent,Merredin,,108 Barrack Street,Merredin,WA,6415,-31.48230,118.28110,,,
+Agent,Miles,,73a Murilla Street,Miles,QLD,4415,-26.66510,150.18440,,,
+Agent,Milikapiti,Snake Bay,Milikapiti Community,Milikapiti,NT,822,-11.42163,130.67261,,,
+Agent,Milingimbi,,Milingimbi Community,Milingimbi,NT,822,-12.10416,134.92063,,,
+Agent,Millicent,,57-59 George Street,Millicent,SA,5280,-37.59490,140.35490,,,
+Agent,Millmerran,,30 Campbell Street,Millmerran,QLD,4357,-27.87645,151.27020,,,
+Agent,Milyakburra,Bickerton Island,Milyakburra Community,Milyakburra,NT,822,-13.78056,136.19636,,,
+Agent,Mimili,,Mimili Community Via,Alice Springs,SA,872,-27.00504,132.71060,,,
+Agent,Mindibungu,Billiluna,Tanami Road,Ord River,WA,6770,-19.55559,127.66267,,,
+Agent,Minjilang,(croker Island),West Arnhem Shire Council Office,Minjilang,NT,822,-11.14633,132.57818,,,
+Agent,Minlaton,,27 Main Street,Minlaton,SA,5575,-34.77050,137.59530,,,
+Agent,Monto,,7 Huxley Street,Monto,QLD,4630,-24.86549,151.12077,,,
+Agent,Moora,,72 Padbury St,Moora,WA,6510,-30.63540,115.99530,,,
+Agent,Moranbah,,Lot 1 Town Square Avenue,Moranbah,QLD,4744,-21.99980,148.04620,,,
+Agent,Mornington Island,Gununa,306 Lardil Street,Gununa,QLD,4892,-16.66234,139.18265,,,
+Agent,Mortlake,,103 Dunlop St,Mortlake,VIC,3272,-38.08090,142.80670,,,
+Agent,Mount Beauty,,1 Tennis Court Avenue,Mount Beauty,VIC,3699,-36.74090,147.17390,,,
+Agent,Mount Magnet,Budemia,71 Hepburn Street,Mount Magnet,WA,6638,-28.06250,117.84990,,,
+Agent,Mount Morgan,,1 Cornes Street,Mount Morgan,QLD,4714,-23.64239,150.38975,,,
+Agent,Mt Barker,,1 Lowood Road,Mount Barker,WA,6324,-34.62280,117.66060,,,
+Agent,Mt Liebig,Amunturrunga,"Lot 86, Mt Liebig Community Via",Alice Springs,NT,872,-23.26798,131.27179,,,
+Agent,Mulan,,Lake Gregory Access Road,Sturt Creek,WA,6770,-20.10202,127.59507,,,
+Agent,Mulga Queen,,Mulga Queen Community,Bandya,WA,6440,-27.55619,122.04144,,,
+Agent,Mullewa,,25 Jose Street,Mullewa,WA,6630,-28.53977,115.50680,,,
+Agent,Mundubbera,,51 Lyons Street,Mundubbera,QLD,4626,-25.59117,151.29957,,,
+Agent,Mungindi,,153 St George Street,Mungindi,NSW,2406,-28.98107,148.99300,,,
+Agent,Murgon,,21 Taylor Street East,Murgon,QLD,4605,-26.24678,151.94432,,,
+Agent,Murray Upper,Jumbun,183 Murray Falls Road,Murray Upper,QLD,4854,-18.12891,145.79789,,,
+Agent,Murrin Bridge,,23 Nyampa St,Murrin Bridge,NSW,2672,-33.21345,146.37264,,,
+Agent,Murrurundi,,113 Mayne Street,Murrurundi,NSW,2338,-31.76350,150.83570,,,
+Agent,Mutitjulu,,Mutitjulu Community Via,Alice Springs,NT,872,-25.35088,131.06777,,,
+Agent,Naracoorte,,71 - 73 Smith Street,Naracoorte,SA,5271,-36.95617,140.74058,,,
+Agent,Narrandera,,84 Audley Street,Narrandera,NSW,2700,-34.74400,146.55100,,,
+Agent,Narrogin,,13 Clayton Street,Narrogin,WA,6312,-32.93450,117.17900,,,
+Agent,Narromine,,13 Burraway St,Narromine,NSW,2821,-32.23472,148.24934,,,
+Agent,New Mapoon,,42 Langhie-Draha Street,New Mapoon,QLD,4876,-10.86628,142.38639,,,
+Agent,New Norfolk,,14 Bathurst St,New Norfolk,TAS,7140,-42.78020,147.06310,,,
+Agent,Ngallagunda,Gibb River Station,Gibb River Road,Gibb,WA,6743,-16.42672,126.43234,,,
+Agent,Ngukurr,Yugal Mangi,Lot 293 Ngukurr Community,Ngukurr,NT,852,-14.73202,134.73429,,,
+Agent,Nhill,,47 Nelson Street,Nhill,VIC,3418,-36.33240,141.65050,,,
+Agent,Nimbin,,71 Cullen Street,Nimbin,NSW,2480,-28.59730,153.22500,,,
+Agent,Norseman,,88 - 92 Prinsep Street,Norseman,WA,6443,-32.19700,121.78060,,,
+Agent,Nubeena,,1614 Nubeena Rd,Nubeena,TAS,7184,-43.10510,147.74370,,,
+Agent,Nullagine,Irrungadji,39 Gallop Road,Nullagine,WA,6758,-21.88857,120.10955,,,
+Agent,Numbulwar,(rose River),Lot 93-95,Numbulwar,NT,822,-14.27847,135.73775,,,
+Agent,Nyirripi,(waite Creek),"Lot 56 Power House Rd, Nyirripi Community Via",Alice Springs,NT,872,-22.65207,130.55217,,,
+Agent,Nyngan,,88 Pangee Street,Nyngan,NSW,2825,-31.56330,147.19650,,,
+Agent,Oak Valley,,Maralinga Lands,Ceduna,SA,5690,-29.40224,130.74098,,,
+Agent,Oberon,,12 Ross Street,Oberon,NSW,2787,-33.70600,149.86160,,,
+Agent,Omeo,,179 Day Ave,Omeo,VIC,3898,-37.09980,147.59270,,,
+Agent,Onslow,,453a Beadon Creek Road,Onslow,WA,6710,-21.64674,115.12433,,,
+Agent,Orbost,,21 Ruskin Street,Orbost,VIC,3888,-37.69220,148.46010,,,
+Agent,Palumpa,Nganmarriyanga,"Palumpa Station, Lot 27",Winnellie,NT,822,-14.35144,129.88238,,,
+Agent,Papulankutja,Blackstone,"Papulanankutja Rd, Blackstone Community Via",Alice Springs,WA,872,-25.99764,128.28344,,,
+Agent,Papunya,Warumpi,"Lot 224, Papunya Via",Alice Springs,NT,872,-23.20471,131.91330,,,
+Agent,Paraburdoo,,1 Ashburton Avenue,Paraburdoo,WA,6754,-23.19950,117.66480,,,
+Agent,Parnngurr,Cotton Creek,Parngurr Cotton Creek Community,Newman,WA,6753,-22.81598,122.60040,,,
+Agent,Peak Hill,,88 Caswell St,Peak Hill,NSW,2869,-32.72731,148.18832,,,
+Agent,Peppimenarti,,Lot 26 Peppimenarti Community,Winnellie,NT,820,-14.15293,130.07886,,,
+Agent,Peterborough,,209 Main Street,Peterborough,SA,5422,-32.97329,138.83796,,,
+Agent,Picton,,62-64 Menangle Street,Picton,NSW,2571,-34.16900,150.61200,,,
+Agent,Pipalyatjara,,"Lot 221a, Pipalyatjara Community Via",Alice Springs,SA,872,-26.16216,129.17080,,,
+Agent,Pirlangimpi,(pularumpi),Pularumpi,Bathurst Island,NT,822,-11.40571,130.41904,,,
+Agent,Point Pearce,Maitland,65 Parrys Terrace,Point Pearce,SA,5573,-34.41519,137.50324,,,
+Agent,Pormpuraaw,Edward River,Lot 105 Korka Street,Pormpuraaw,QLD,4892,-14.89814,141.62348,,,
+Agent,Port Broughton,,11 Bay Street,Port Broughton,SA,5522,-33.59990,137.93130,,,
+Agent,Poruma Island,Coconut Island,Cnr Mimia & Olandi Streets,Coconut Island,QLD,4875,-10.05019,143.06509,,,
+Agent,Pottsville Beach,,10b - 12a Elizabeth Street,Pottsville,NSW,2489,-28.39100,153.56380,,,
+Agent,Punmu,,Punmu Community,Newman,WA,6753,-22.04453,123.12409,,,
+Agent,Queenstown,,9-13 Driffield Street,Queenstown,TAS,7467,-42.08200,145.55990,,,
+Agent,Quirindi,,Shop 5/6 4 Station Street,Quirindi,NSW,2343,-31.50551,150.68001,,,
+Agent,Ramingining,,Ramingining Road,Ramingining,NT,822,-12.33115,134.92753,,,
+Agent,Robinson River,Mungoorbada,Mungoorbada Council Office,Robinson River,NT,852,-16.75793,136.98298,,,
+Agent,Robinvale,,68-72 Herbert Street,Robinvale,VIC,3549,-34.58740,142.77465,,,
+Agent,Roebourne,Ngurin,46 Roe Street,Roebourne,WA,6718,-20.77168,117.14414,,,
+Agent,Rosebery,,12 Agnes Street,Rosebery,TAS,7470,-41.78050,145.54060,,,
+Agent,Saibai Island,,Lot 26 Main Road,Saibai Island,QLD,4875,-9.38025,142.62418,,,
+Agent,Scottsdale,,51 King Street,Scottsdale,TAS,7260,-41.15810,147.51690,,,
+Agent,Seisia,,Tumema Street,Seisia,QLD,4876,-10.85617,142.36717,,,
+Agent,Sheffield,,64 High Street,Sheffield,TAS,7306,-41.38240,146.32460,,,
+Agent,Smithton,,134 Nelson Street,Smithton,TAS,7330,-40.84240,145.12330,,,
+Agent,South West Rocks,,Ocean Drive,South West Rocks,NSW,2431,-30.89220,153.04410,,,
+Agent,St Arnaud,,85 Napier Street,St Arnaud,VIC,3478,-36.61430,143.25720,,,
+Agent,St George,,88-90 The Terrace,St George,QLD,4487,-28.03802,148.57693,,,
+Agent,St Helens,,65 Cecilia Street,St Helens,TAS,7216,-41.32260,148.24410,,,
+Agent,St Pauls,St Pauls Community,Lot 156 St Pauls Community,Moa Island,QLD,4875,-10.18381,142.33448,,,
+Agent,Stradbroke Island,Dunwich,East Coast Road,North Stradbroke Island,QLD,4183,-27.49457,153.40425,,,
+Agent,Streaky Bay,,21 Bay Road,Streaky Bay,SA,5680,-32.79910,134.21250,,,
+Agent,Surat,,Surat Council Library,Surat,QLD,4417,-27.15172,149.06920,,,
+Agent,Tara,,49 Day Street,Tara,QLD,4421,-27.27650,150.46090,,,
+Agent,Temora,,221-225 Hoskins Street,Temora,NSW,2666,-34.44620,147.53320,,,
+Agent,Tenterfield,,279 Rouse Street,Tenterfield,NSW,2372,-29.04689,152.02023,,,
+Agent,Texas,,40 High Street,Texas,QLD,4385,-28.85490,151.16700,,,
+Agent,Thargomindah,,Dowling Street,Thargomindah,QLD,4492,-27.99849,143.82860,,,
+Agent,Ti Tree,Anmatjere,"Spencer Street, Ti Tree Via",Alice Springs,NT,872,-22.12882,133.41512,,,
+Agent,Timber Creek,Ngaringman,Ngaliwurru-Wuli Resource Centre,Timber Creek,NT,852,-15.64497,130.46763,,,
+Agent,Tin Can Bay,,1 Buchanan Street,Tin Can Bay,QLD,4580,-25.90990,153.00580,,,
+Agent,Titjikala,Tapatjatjaka,Lot 52 Titjikala Community,Alice Springs,NT,872,-24.67018,134.07434,,,
+Agent,Tjuntjuntjara,,Tjuntunjara Community,Kalgoorlie,WA,6430,-29.34153,127.09671,,,
+Agent,Tjuwanpa,,Tjuwanpa Outstation Resource Centre Via,Alice Springs,NT,872,-23.93559,132.63467,,,
+Agent,Tom Price,,"Lot 2, Stadium Road",Tom Price,WA,6751,-22.69360,117.79270,,,
+Agent,Toomelah - Boggabilla,Goondiwindi,Toomelah Aboriginal Community,Boggabilla,NSW,2409,-28.67020,150.47920,,,
+Agent,Triabunna,,17 Vicary Street,Triabunna,TAS,7190,-42.50450,147.91540,,,
+Agent,Tully,,54 Bryant St,Tully,QLD,4854,-17.92960,145.92280,,,
+Agent,Tumbarumba,,10 Bridge Street,Tumbarumba,NSW,2653,-35.77720,148.00990,,,
+Agent,Ulong,,70 Pine Avenue,Ulong,NSW,2450,-30.24120,152.88640,,,
+Agent,Umagico,,Charlie Street,Umagico,QLD,4876,-10.89278,142.35315,,,
+Agent,Umbakumba,,Mamarika Street,Umbakumba,NT,822,-13.85786,136.81193,,,
+Agent,Urapuntja,"Utopia, Arlparra","Lot 20, Urapuntja Office, Arlparra Cmty Via",Alice Springs,NT,872,-22.08934,134.77517,,,
+Agent,Wagin,,46-48 Tudhoe Street,Wagin,WA,6315,-33.30896,117.34327,,,
+Agent,Waikerie,,1 Crush Terrace,Waikerie,SA,5330,-34.18090,139.98670,,,
+Agent,Walcha,,Oxley Highway,Walcha,NSW,2354,-30.98260,151.59280,,,
+Agent,Wallace Rockhole,(ulana),"Lot 69, Wallace Rockhole Community Via",Alice Springs,NT,872,-24.12495,133.08492,,,
+Agent,Wallaga Lake,,13 Umbarra Road,Wallaga Lake,NSW,2546,-36.35410,150.06900,,,
+Agent,Wanarn,,"Lot 26, Wanarn Community Via",Alice Springs,WA,872,-25.28344,127.54240,,,
+Agent,Wangkatjungka,Christmas Creek,Great Northern Hwy,Fitzroy Crossing,WA,6765,-18.87999,125.92489,,,
+Agent,Warakurna,,"Lot 7, Warakurna Community Via",Alice Springs,WA,872,-25.00018,128.28656,,,
+Agent,Warburton,,"Lot 76 Fourth St, Warburton Community Via",Alice Springs,WA,872,-26.13383,126.57855,,,
+Agent,Warialda,,41 Hope Street,Warialda,NSW,2402,-29.54050,150.57400,,,
+Agent,Warmun,Turkey Creek,Warmun Community,Kununurra,WA,6743,-17.02844,128.21326,,,
+Agent,Warraber Island,,Lot 52 Ganaia Street,Warraber Island,QLD,4875,-10.20611,142.82465,,,
+Agent,Warracknabeal,,63-65 Scott Street,Warracknabeal,VIC,3393,-36.25505,142.39620,,,
+Agent,Warren,,4 Burton Street,Warren,NSW,2824,-31.70040,147.83420,,,
+Agent,Warruwi,Goulburn Island,Warruwi Community,Goulburn Island,NT,822,-11.64910,133.38960,,,
+Agent,Wedderburn,,24 Wilson Street,Wedderburn,VIC,3518,-36.41880,143.61240,,,
+Agent,Wee Waa,,77b Rose Street,Wee Waa,NSW,2388,-30.22283,149.44049,,,
+Agent,Wellington,,27 Swift Street,Wellington,NSW,2820,-32.55630,148.94670,,,
+Agent,Welshpool,,14 Main Street,Welshpool,VIC,3966,-38.66510,146.43430,,,
+Agent,Werris Creek,,59 Single Street,Werris Creek,NSW,2341,-31.35006,150.64757,,,
+Agent,West Wyalong,,147 Main St,West Wyalong,NSW,2671,-33.92349,147.20520,,,
+Agent,Wilcannia,,35 Reid Street,Wilcannia,NSW,2836,-31.55912,143.37945,,,
+Agent,Willowra,Wirliyatjarrayi,"Lot 36, Willowra Community Via",Alice Springs,NT,872,-21.24688,132.61166,,,
+Agent,Wiluna,Ngurra Yuldoo,41 Wotton Street,Wiluna,WA,6646,-26.59688,120.22560,,,
+Agent,Wingellina,Irrunytju,"Lot 61, Irrunytju Rd, Wingellina Via",Alice Springs,WA,872,-26.06747,128.93190,,,
+Agent,Winton,,75 Elderslie St,Winton,QLD,4735,-22.38750,143.04310,,,
+Agent,Wirrimanu,Balgo,Off Tanami Road,Halls Creek,WA,6770,-20.14251,127.98303,,,
+Agent,Woodycupaldiya,,Aboriginal Corporation Wudicupildiyerr,Winnellie,NT,820,-13.85910,130.00096,,,
+Agent,Woolgoolga,,Cnr Beach & Boundary Street,Woolgoolga,NSW,2456,-30.11310,153.19390,,,
+Agent,Woorabinda,,113 Munns Drive,Woorabinda,QLD,4713,-24.13384,149.46066,,,
+Agent,Wreck Bay,,Wreck Bay Village,Jervis Bay,ACT,2540,-35.16593,150.69155,,,
+Agent,Wugularr,Beswick,30 Balanda Street,Beswick,NT,852,-14.55616,133.11565,,,
+Agent,Wujal Wujal,,Hartwig Street,Wujal Wujal,QLD,4895,-15.94576,145.32048,,,
+Agent,Wyndham,Ngnowar Aerwahs,Lot 471 Great Northern Hwy,Wyndham,WA,6740,-15.48356,128.11770,,,
+Agent,Yakanarra,,Yakanarra,Fitzroy Crossing,WA,6765,-18.67137,125.29987,,,
+Agent,Yalata,,Anangu Services Building,Yalata,SA,5690,-31.47932,131.84533,,,
+Agent,Yalgoo,,24 Gibbons Street,Yalgoo,WA,6635,-28.33980,116.67890,,,
+Agent,Yam Island,Iama Island,Lot 1 Church Road,Yam Island,QLD,4875,-9.89858,142.77064,,,
+Agent,Yandeyarra,Mugarinya,Mugarinya Community,South Hedland,WA,6722,-21.28398,118.40342,,,
+Agent,Yarrabah Back Beach,,10 Lot 207 Back Beach Road,Yarrabah,QLD,4871,-16.90947,145.86994,,,
+Agent,Yarralin,Walangeri Ngumpinku,Lot 44,Yarralin,NT,852,-16.44765,130.88075,,,
+Agent,Yarram,,292 Commercial Road,Yarram,VIC,3971,-38.56210,146.67410,,,
+Agent,Yarrawonga,,1 Hargrave Court,Yarrawonga,VIC,3730,-36.00990,146.00490,,,
+Agent,Yirrkala,,86 Galpu Rd,Yirrkala,NT,880,-12.25279,136.89168,,,
+Agent,Yorke Island,,Cnr Barneys & Dan Streets,Yorke Island,QLD,4875,-9.75288,143.40565,,,
+Agent,Yorketown,,33 Stansbury Road,Yorketown,SA,5576,-35.01520,137.61800,,,
+Agent,Yuelamu,,"Lot 1, Yuelamu Community Via",Alice Springs,NT,872,-22.25771,132.20570,,,
+Agent,Yungngora,Nookenbah,Great Northern Highway,Fitzroy Crossing,WA,6765,-18.19942,125.56858,,,
+Agent,Zeehan,,Belstead St,Zeehan,TAS,7469,-41.88130,145.34000,,,
