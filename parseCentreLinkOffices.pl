@@ -2,7 +2,7 @@
 use strict;
 use Text::ParseWords;
     
-my $filename = "/home/mike/Downloads/Centrelink-Office-Locations-as-at--3-March-2016.csv";
+my $filename = "Centrelink-Office-Locations-as-at--3-March-2016.csv";
 open (my $fh, "<$filename") || die "can't open $filename $!";
 while (<$fh>) {
     #print $_;
