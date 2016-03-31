@@ -5,7 +5,7 @@
       "name": "scoffices",
       "annotations": {
          "iconClass": "icon-jboss",
-         "description": "Application template for Cetrelink Offices application on EAP 6 & MongoDB built using STI",
+         "description": "Application template for Suncorp Bank Branch Offices application on EAP 6 & MongoDB built using STI",
          "tags": "instant-app,eap,mongodb,javaee,java,database,jboss,xpaas"
       }
    },
