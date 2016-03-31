@@ -2,7 +2,7 @@
    "kind": "Template",
    "apiVersion": "v1",
    "metadata": {
-      "name": "suncorpoffices",
+      "name": "scoffices",
       "annotations": {
          "iconClass": "icon-jboss",
          "description": "Application template for Cetrelink Offices application on EAP 6 & MongoDB built using STI",
@@ -10,13 +10,13 @@
       }
    },
    "labels": {
-      "template": "suncorpoffices-template"
+      "template": "scoffices-template"
    },
    "parameters": [
       {
          "description": "The name for the application.",
          "name": "APPLICATION_NAME",
-         "value": "suncorpoffices"
+         "value": "scoffices"
       },
       {
          "description": "Custom hostname for service routes.  Leave blank for default hostname, e.g.: <application-name>.<project>.<default-domain-suffix>",
