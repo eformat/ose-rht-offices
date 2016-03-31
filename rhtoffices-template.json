@@ -10,13 +10,13 @@
       }
    },
    "labels": {
-      "template": "rhtoffices-template"
+      "template": "cloffices-template"
    },
    "parameters": [
       {
          "description": "The name for the application.",
          "name": "APPLICATION_NAME",
-         "value": "rhtoffices"
+         "value": "cloffices"
       },
       {
          "description": "Custom hostname for service routes.  Leave blank for default hostname, e.g.: <application-name>.<project>.<default-domain-suffix>",
