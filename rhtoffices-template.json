@@ -2,7 +2,7 @@
    "kind": "Template",
    "apiVersion": "v1",
    "metadata": {
-      "name": "wploffices",
+      "name": "wpoffices",
       "annotations": {
          "iconClass": "icon-jboss",
          "description": "Application template for Wetpac Branch Offices application on EAP 6 & MongoDB built using STI",
