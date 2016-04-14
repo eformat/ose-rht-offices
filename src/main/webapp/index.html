@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>Map of Centrelink Offices</title> 
+  <title>Map of Westpac Branch Offices</title> 
   	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.css" />
 	<!--[if lte IE 8]>
     	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.ie.css" />
@@ -31,21 +31,24 @@
 		        -webkit-margin-start: 0px;
 		        -webkit-margin-end: 0px;
 		        position: inherit;
-		        z-index: 3;		
+		        width: 80px;
+                        height: 32px;
+                        background: url(images/sprites-2c5576e3.svg) 0 0 no-repeat;	
+		        z-index: 3;
 		}
 	</style>
 	
 </head>
 <body>
 
-	  <h1 id="title">Centrelink Offices on OpenShift 3</h1>
+	  <h1 id="title">Westpac Offices on OpenShift 3</h1>
 	  <div id="map">
-      	    <img src="images/ui-service-brand-centrelink.png" align="right" class="logo" alt=""/>
+      	    <img src="images/img_trans.gif" align="right" class="logo" alt=""/>
 	  </div>
 	<script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script> 
 	<script>
-		center = new L.LatLng(-25.579, 134.575);
-		zoom = 5;
+		center = new L.LatLng(-42.023, 173.851);
+		zoom = 6;
 		var map = L.map('map').setView(center, zoom);
 		var markerLayerGroup = L.layerGroup().addTo(map);
 		L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
