@@ -36,7 +36,7 @@
       {
          "description": "Database name",
          "name": "MONGODB_DATABASE",
-         "value": "sample"
+         "value": "root"
       },
       {
          "name": "IMAGE_STREAM_NAMESPACE",
@@ -177,7 +177,7 @@
                      "from": {
                         "kind": "ImageStreamTag",
                         "namespace": "openshift",
-                        "name": "mongodb:latest"
+                        "name": "mongodb:2.4"
                      }
                   }
                },
